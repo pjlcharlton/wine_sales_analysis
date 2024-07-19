@@ -5,16 +5,26 @@ import numpy as np
 
 archive_df = pd.read_csv('wine_sales_archive_anonymous.csv').drop(['Unnamed: 0'],axis=1)
 
-'''
+archive_df['WINE PURCHASED'] = archive_df['WINE PURCHASED'].str.lstrip()
+archive_df['WINE PURCHASED'] = archive_df['WINE PURCHASED'].str.rstrip()
 archive_df['WINE PURCHASED'] = archive_df['WINE PURCHASED'].str.strip()
 
-#Want to strip product line info into its own column
-product_lines_dict = { 'ec':'eclipse'}
+wine_vals = archive_df['WINE PURCHASED'].value_counts()
 
 #Want to strip country info into it's own column
-country_tag_replacements = {'itl.':'italy'}
+country_tag_dict = {'itl.' : 'italy'
+                    , 'wash.' : 'Washington, USA', 'yakima' : 'Yakima, Washington, USA'
+                    , 'cal.' : 'California, USA'
+                    , 'n. z.' : 'New Zealand', 'n.z.' : 'New Zealand'
+                    , 'chile' : 'Chile'
+                    , 'german' : 'Germany'}
 
+#Want to strip product line info into its own column
+product_lines_dict = { 'ec' : 'eclipse'
+                      , 'wv' : ''
+                      , 'cl' : 'classic'}
 
+'''
 #Customer additions are usually labelled by ' + ' or ' - ', handle these here
 archive_df['WINE PURCHASED'].str.split('+',expand=True)
 
@@ -35,7 +45,7 @@ wine_str_replacements = {' no oak, no so2':'', ' aging + so2': ''
                          , ' no ban': '', ' bann.':''
                          , ' 5gr eno blk':'', ' 10gr eno blk':'', ' 12gr eno blk':''
                          , ' 1/2 batch': '', 'half batch':''
-                         , ' 6 weeks':'',' 8 weeks': ''
+                         , ' 6 weeks':'', '6 wk': '',' 8 weeks': ''
                          , ' lighten @ racking': ''
                          , ' 10gr granucol @ stab' :''
                          , ' 25gr bianco neve @ stab.':''
