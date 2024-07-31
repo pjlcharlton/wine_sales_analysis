@@ -187,7 +187,7 @@
 185,228,2019-02-09 0:00, chil. corazon le18 + aging,260,32
 186,229,2019-02-09 0:00, aus. cab shiraz sel,20,363
 187,230,2019-02-09 0:00, aus. cab shiraz sel,195,680
-188,231,2019-02-09 0:00, pinot blanc cm,150,75
+188,231,2019-02-09 0:00, n/s pinot blanc cm,150,75
 189,232,2019-02-09 0:00, aus. chardonnay wv,160,75
 190,233,2019-02-09 0:00, fr. merlot sel,240,603
 191,234,2019-02-12 0:00, aus. g.s.m. wv + skins,175,673
@@ -386,7 +386,7 @@
 384,3-122,2019-03-30 0:00,ger. gewurz vr + res. pak.,195,47
 385,3-123,2019-03-30 0:00, n.z. sauv blanc ec,240,400
 386,3-124,2019-03-30 0:00, itl. forza ec,250,28
-387,3-125,2019-03-30 0:00, pinot gris vr,140,380
+387,3-125,2019-03-30 0:00, wash. pinot gris vr,140,380
 388,3-126,2019-03-30 0:00, cal. symphony gewurz le18,220,539
 389,3-127,2019-03-30 0:00, chil. malbec wv,155,830
 390,3-128,2019-03-30 0:00, itl. pinot grigio rosa sel lr,185,89
@@ -434,15 +434,15 @@
 432,440,2019-04-12 0:00, cal. symphony gewurz le18,240,868
 433,443,2019-04-12 0:00,ger. gewurz vr + res. pak.,140,158
 434,444,2019-04-12 0:00, itl. barbaresco le18 + aging,130,344
-435,445,2019-04-12 0:00, pinot blanc vr,140,835
+435,445,2019-04-12 0:00, n/s pinot blanc vr,140,835
 436,446,2019-04-13 0:00, aus. cab sauv wv + skins + aging,205,731
 437,447,2019-04-13 0:00, n.z. sauv blanc ec,240,736
 438,448,2019-04-13 0:00, itl. barbaresco le18 + aging,280,32
-439,450,2019-04-13 0:00, pinot noir vr,145,844
+439,450,2019-04-13 0:00, n/s pinot noir vr,145,844
 440,451,2019-04-13 0:00, itl. barbaresco le18 + aging,140,837
 441,452,2019-04-13 0:00, itl. pinot grigio rosa sel lr,205,798
 442,453,2019-04-13 0:00, itl.sangiovese sel,5.2,350
-443,454,2019-04-13 0:00, cal. bb zin/cab ec lr,5.2,350
+443,454,2019-04-13 0:00, cal. bb zin/cab ec,5.2,350
 444,455,2019-04-16 0:00, arg. malbec cel sc + aging,280,33
 445,457,2019-04-16 0:00, itl. pinot grigio wv,150,738
 446,458,2019-04-16 0:00, n.z. sauv blanc ec,240,34
@@ -479,7 +479,7 @@
 477,488,2019-04-25 0:00, itl. barbaresco le18 + aging,140,511
 478,489,2019-04-25 0:00, sonoma chardonnay ec + unoaked,230,229
 479,490,2019-04-26 0:00, arg. malbec sel + no skins,195,38
-480,491,2019-04-26 0:00, pinot blanc cc,125,689
+480,491,2019-04-26 0:00, n/s pinot blanc cc,125,689
 481,492,2019-04-26 0:00, itl. valroza cc,130,689
 482,493,2019-04-26 0:00, itl. forza ec + aging,80,39
 483,494,2019-04-26 0:00, cal. symphony gewurz le18,220,918
@@ -675,7 +675,7 @@
 673,608,2019-06-04 0:00, chil. pinot noir sel + 1/2 sulfites,205,378
 674,609,2019-06-04 0:00, aus. shiraz wv,165,884
 675,610,2019-06-04 0:00,itl. luna rossa sel,205,719
-676,611,2019-06-04 0:00, pinot gris vr,195,66
+676,611,2019-06-04 0:00, wash. pinot gris vr,195,66
 677,612,2019-06-04 0:00, chil. merlot vr,195,66
 678,613,2019-06-05 0:00, var. 3 moons cab lr +age,270,365
 679,614,2019-06-05 0:00, aus. chardonnay wv,150,738
@@ -768,7 +768,7 @@
 766,6-103,2019-06-28 0:00, itl. barbaresco le18 + aging,125,392
 767,6-104,2019-06-28 0:00, wsky cab merlot lr + aging,235,836
 768,6-105,2019-06-28 0:00, n.z. sauv blanc ec,230,661
-769,6-106,2019-06-28 0:00, pinot noir vr,140,785
+769,6-106,2019-06-28 0:00, n/s pinot noir vr,140,785
 770,701,2019-07-02 0:00, cal. white zin vr + res pak,155,647
 771,702,2019-07-02 0:00, s.a. sauv blanc cm,160,744
 772,703,2019-07-02 0:00, itl. pinot grigio wv,150,238
@@ -861,7 +861,7 @@
 859,790,2019-07-18 0:00, chil. merlot vr ,5.2,757
 860,791,2019-07-19 0:00, chil. sauv blanc wv,160,87
 861,792,2019-07-19 0:00, aust chardonnay reisling atm lr ,195,434
-862,793,2019-07-19 0:00, pinot blanc chm,130,689
+862,793,2019-07-19 0:00, n/s pinot blanc chm,130,689
 863,794,2019-07-19 0:00, cal. pinot noir wv,165,208
 864,795,2019-07-20 0:00, arg. malbec cel sc + aging,270,88
 865,796,2019-07-20 0:00, chil. sauv blanc wv,160,89
@@ -917,7 +917,7 @@
 915,826,2019-08-08 0:00, fr. cab sauv wv,195,94
 916,827,2019-08-08 0:00, cal. white zin. sel,205,266
 917,828,2019-08-08 0:00, chil. carmenere sel,205,680
-918,829,2019-08-08 0:00, pinot gris vr,140,189
+918,829,2019-08-08 0:00, wash. pinot gris vr,140,189
 919,830,2019-08-09 0:00, cal. enigma sel,205,95
 920,831,2019-08-09 0:00, n.z. fume blanc le18,220,280
 921,832,2019-08-09 0:00,ger. gewurz vr,140,158
@@ -1056,7 +1056,7 @@
 1054,947,2019-09-17 0:00, lodi cab sauv ec,235,882
 1055,948,2019-09-17 0:00, n.z. sauv blanc ec,240,228
 1056,949,2019-09-17 0:00, chil. pinot noir cm,165,848
-1057,950,2019-09-18 0:00, pinot noir vr,125,342
+1057,950,2019-09-18 0:00, n/s pinot noir vr,125,342
 1058,951,2019-09-18 0:00, itl. pinot grigio wv,290,107
 1059,952,2019-09-18 0:00, fr. cab sauv wv,260,107
 1060,953,2019-09-18 0:00, lodi zinfandel ec + aging,150,899
@@ -1464,7 +1464,7 @@
 1462,1191,2019-11-22 0:00, itl. amarone csc,240,539
 1463,1192,2019-11-22 0:00, lodi o.v. zin ec,240,539
 1464,1193,2019-11-22 0:00, n.z. sauv blanc ec,235,837
-1465,1194,2019-11-22 0:00, cal. n/s viognier sel,200,318
+1465,1194,2019-11-22 0:00, cal. viognier sel,200,318
 1466,1195,2019-11-22 0:00, sonoma pinot noir ec,240,933
 1467,1196,2019-11-22 0:00, wash. riesling ec + 1/2 tsp so2,220,927
 1468,1197,2019-11-22 0:00, ger. gewurz ec + 1/2 tsp so2,220,927
@@ -1623,7 +1623,7 @@
 1621,12-111,2019-12-24 0:00, itl. valrosa vr,6,349
 1622,12-112,2019-12-24 0:00, ger. muller-thurgau wv + 1/2 tsp so2,160,555
 1623,12-113,2019-12-27 0:00, var. 3 moons cab lr,240,168
-1624,12-114,2019-12-27 0:00, pinot noir vr,140,785
+1624,12-114,2019-12-27 0:00, n/s pinot noir vr,140,785
 1625,12-115,2019-12-28 0:00, itl. pinot grigio wv,160,946
 1626,12-116,2019-12-28 0:00, cal. white zin vr + res pak,155,647
 1627,12-117,2019-12-28 0:00, cal. cab merlot sel,195,336
@@ -1676,7 +1676,7 @@
 1677,138,2020-01-10 0:00,spa. tempranillo le19,5.2,335
 1678,139,2020-01-10 0:00,fr. union red pp20 + aging,5.2,335
 1679,140,2020-01-10 0:00,itl. nebbiolo sel,205,172
-1680,141,2020-01-10 0:00,pinot gris vr,105,302
+1680,141,2020-01-10 0:00,wash. pinot gris vr,105,302
 1681,142,2020-01-10 0:00,chil. carmenere csc + aging,270,610
 1682,143,2020-01-10 0:00,arg. malbec csc + aging,270,610
 1683,144,2020-01-10 0:00,aus. chardonnay cm,160,310
@@ -1747,7 +1747,7 @@
 1748,1-107,2020-01-17 0:00,arg. malbec csc,240,810
 1749,1-108,2020-01-17 0:00,wash. riesling wv,160,658
 1750,1-109,2020-01-17 0:00,itl. pinot grigio sel,200,860
-1751,1-110,2020-01-17 0:00,cal. n/s viognier sel,200,860
+1751,1-110,2020-01-17 0:00,cal. viognier sel,200,860
 1752,1-111,2020-01-17 0:00,s.a. cab sauv cm,140,906
 1753,1-112,2020-01-17 0:00,itl. pecorino p. g. le19,110,918
 1754,1-113,2020-01-17 0:00,cal. white zin. sel,205,687
@@ -1916,7 +1916,7 @@
 1920,2-107,2020-02-22 0:00,itl. pinot grigio wv,160,188
 1921,2-108,2020-02-22 0:00,chil. carmenere csc + aging,270,476
 1922,2-109,2020-02-22 0:00,cal. enigma sel + aging,235,783
-1923,2-110,2020-02-22 0:00,pinot gris vr,150,189
+1923,2-110,2020-02-22 0:00,wash. pinot gris vr,150,189
 1924,2-111,2020-02-22 0:00,n/s riesling cc,140,940
 1925,2-112,2020-02-22 0:00,itl. pinot grigio sel,200,190
 1926,2-113,2020-02-22 0:00,fr. union red pp20,225,427
@@ -1933,7 +1933,7 @@
 1937,2-124,2020-02-25 0:00,n.z. sauv blanc atm,200,931
 1938,2-125,2020-02-25 0:00,var. 3 moons cab lr,240,461
 1939,2-126,2020-02-26 0:00,chil. merlot wv,160,331
-1940,2-127,2020-02-26 0:00,pinot blanc chm,135,689
+1940,2-127,2020-02-26 0:00,n/s pinot blanc chm,135,689
 1941,2-128,2020-02-26 0:00,sauv blanc chm,135,689
 1942,2-129,2020-02-26 0:00,itl. pinot grigio sel,200,849
 1943,2-130,2020-02-26 0:00,fr. merlot sel,205,193
@@ -1942,26 +1942,26 @@
 1946,2-133,2020-02-26 0:00,chil. merlot wv + 1/2 batch,85,194
 1947,2-134,2020-02-27 0:00,var. coastal red vr,150,791
 1948,2-135,2020-02-27 0:00,var. coastal red vr,150,791
-1949,2-136,2020-02-27 0:00,cal. n/s viognier sel,200,860
+1949,2-136,2020-02-27 0:00,cal. viognier sel,200,860
 1950,2-137,2020-02-27 0:00,spa/aus. dos gren. pp20 + aging,255,860
 1951,2-138,2020-02-27 0:00,aus. tram riesl sel,200,807
 1952,2-139,2020-02-28 0:00,n.z. sauv blanc ec,235,736
 1953,2-140,2020-02-28 0:00,chardonnay vr,150,279
 1954,2-141,2020-02-28 0:00,fw mango citrus im,140,195
-1955,2-142,2020-02-28 0:00,itl. pink pinot grigio res lr,200,195
+1955,2-142,2020-02-28 0:00,itl. pink pinot grigio res,200,195
 1956,2-143,2020-02-28 0:00,itl. nebbiolo ec + 1/2 tsp so2,240,871
 1957,2-144,2020-02-28 0:00,s.a. sauv blanc cm,160,359
 1958,2-145,2020-02-28 0:00,fr. union white pp20,220,234
-1959,2-146,2020-02-28 0:00,itl. pink pinot grigio res lr,200,234
+1959,2-146,2020-02-28 0:00,itl. pink pinot grigio res,200,234
 1960,2-147,2020-02-29 0:00,cal. pinot noir wv,165,937
 1961,2-148,2020-02-29 0:00,aus. cab sauv sel,5.2,196
 1965,301,2020-03-03 0:00,aus. tram-ries sel,200,197
 1966,302,2020-03-03 0:00,itl. pinot grigio sel,200,933
-1967,303,2020-03-03 0:00,itl. pink pinot grigio res lr,200,933
-1968,304,2020-03-03 0:00,itl. pink pinot grigio res lr,200,933
+1967,303,2020-03-03 0:00,itl. pink pinot grigio res,200,933
+1968,304,2020-03-03 0:00,itl. pink pinot grigio res,200,933
 1969,305,2020-03-03 0:00,ger. gewurz vr + res. pak.,150,625
 1970,306,2020-03-03 0:00,pacific quart red le19 + aging,137.5,368
-1971,307,2020-03-03 0:00,itl. pink pinot grigio res lr,240,676
+1971,307,2020-03-03 0:00,itl. pink pinot grigio res,240,676
 1972,308,2020-03-03 0:00,itl. amarone csc,240,676
 1973,309,2020-03-03 0:00,ger. gewurz vr,140,824
 1974,310,2020-03-04 0:00,itl. pinot grigio wv,160,623
@@ -1974,8 +1974,8 @@
 1981,317,2020-03-05 0:00,chil. carmenere sel,195,749
 1982,318,2020-03-05 0:00,n.z. sauv blanc ec,225,577
 1983,319,2020-03-05 0:00,sonoma pinot noir ec,225,577
-1984,320,2020-03-05 0:00,itl. pink pinot grigio res lr,200,798
-1985,321,2020-03-05 0:00,itl. pink pinot grigio res lr,200,798
+1984,320,2020-03-05 0:00,itl. pink pinot grigio res,200,798
+1985,321,2020-03-05 0:00,itl. pink pinot grigio res,200,798
 1986,322,2020-03-05 0:00,spa/aus. dos gren. pp20 + aging,255,823
 1987,323,2020-03-05 0:00,wash. pinot gris cm,160,198
 1988,324,2020-03-05 0:00,cal. cab merlot sel,250,604
@@ -1983,19 +1983,19 @@
 1990,326,2020-03-06 0:00,cal. riesling vr,150,423
 1991,327,2020-03-06 0:00,itl. valrosa vr,150,423
 1992,328,2020-03-06 0:00,cal. yolo white le19,105,948
-1993,329,2020-03-06 0:00,itl. pink pinot grigio res lr,200,948
+1993,329,2020-03-06 0:00,itl. pink pinot grigio res,200,948
 1994,330,2020-03-06 0:00,aus. wsky shiraz lr,205,680
 1995,331,2020-03-07 0:00,pacific quart red le19,112.5,903
 1996,332,2020-03-07 0:00,pacific quart red le19,112.5,903
 1997,333,2020-03-07 0:00,itl. luna rossa sel,205,455
 1998,334,2020-03-07 0:00,cal. yolo white le19,110,932
-1999,334-1,2020-03-07 0:00,itl. pink pinot grigio res lr,200,932
+1999,334-1,2020-03-07 0:00,itl. pink pinot grigio res,200,932
 2000,335,2020-03-07 0:00,n/s mezza luna red vr,155,199
 2001,336,2020-03-07 0:00,n/s mezza luna red vr,155,199
 2002,337,2020-03-07 0:00,fr. union red pp20 + no so2,220,200
 2003,338,2020-03-07 0:00,aus. g.s.m. wv,175,455
-2004,339,2020-03-07 0:00,itl. pink pinot grigio res lr,200,201
-2005,340,2020-03-07 0:00,itl. pink pinot grigio res lr,200,633
+2004,339,2020-03-07 0:00,itl. pink pinot grigio res,200,201
+2005,340,2020-03-07 0:00,itl. pink pinot grigio res,200,633
 2006,341,2020-03-10 0:00,itl. barbaresco le18 + so2,235,678
 2007,342,2020-03-10 0:00,itl. pinot grigio wv,160,738
 2008,343,2020-03-10 0:00,cal. cab merlot sel,205,360
@@ -2008,8 +2008,8 @@
 2015,350,2020-03-12 0:00,chil. carm. petit verdot pp20 + aging,265,672
 2016,351,2020-03-12 0:00,n.z. sauv blanc atm,200,926
 2017,352,2020-03-12 0:00,n.z. sauv blanc ec,235,228
-2018,353,2020-03-12 0:00,itl. pink pinot grigio res lr,83,439
-2019,354,2020-03-12 0:00,itl. pink pinot grigio res lr,126,307
+2018,353,2020-03-12 0:00,itl. pink pinot grigio res,83,439
+2019,354,2020-03-12 0:00,itl. pink pinot grigio res,126,307
 2020,355,2020-03-12 0:00,cal. moscato wv,96,307
 2021,356,2020-03-12 0:00,cal. yolo white le19,105,660
 2022,357,2020-03-12 0:00,fw bahama mama im,140,542
@@ -2019,7 +2019,7 @@
 2026,1148,2020-03-13 0:00,cal. yolo white le19,0,575
 2027,361,2020-03-13 0:00,cal. yolo white le19,110,753
 2028,362,2020-03-13 0:00,pacific quart red le19,107.5,826
-2029,363,2020-03-13 0:00,itl. pink pinot grigio res lr,200,318
+2029,363,2020-03-13 0:00,itl. pink pinot grigio res,200,318
 2030,364,2020-03-13 0:00,n.z. pinot noir sel + aging,235,692
 2031,366,2020-03-13 0:00,chil. carm. petit verdot pp20 + 1/2 oak + aging,5.2,257
 2032,367,2020-03-13 0:00,chil. malbec wv + no ban,165,534
@@ -2030,7 +2030,7 @@
 2037,372,2020-03-14 0:00,sonoma pinot noir ec + aging,240,392
 2038,373,2020-03-14 0:00,pacific quart red le19 + aging,112.5,392
 2039,374,2020-03-14 0:00,cal. yolo white le19,110,890
-2040,375,2020-03-14 0:00,itl. pink pinot grigio res lr,200,902
+2040,375,2020-03-14 0:00,itl. pink pinot grigio res,200,902
 2041,376,2020-03-14 0:00,cab sauv vr,145,902
 2042,377,2020-03-14 0:00,blk cherry lemonade im,140,555
 2043,378,2020-03-14 0:00,cal. merlot sel,205,203
@@ -2052,10 +2052,10 @@
 2059,394,2020-03-18 0:00,fr. union white pp20,220,280
 2060,395,2020-03-18 0:00,sonoma chardonnay pr,235,280
 2061,396,2020-03-18 0:00,cal. yolo white le19,105,642
-2062,397,2020-03-18 0:00,itl. pink pinot grigio res lr,200,431
+2062,397,2020-03-18 0:00,itl. pink pinot grigio res,200,431
 2063,398,2020-03-18 0:00,cal. enigma sel,205,431
 2064,399,2020-03-18 0:00,cal. yolo white le19,110,947
-2065,3-100,2020-03-18 0:00,itl. pink pinot grigio res lr,200,207
+2065,3-100,2020-03-18 0:00,itl. pink pinot grigio res,200,207
 2066,3-101,2020-03-18 0:00,aus. chardonnay res,200,885
 2067,3-102,2020-03-18 0:00,aus. chardonnay res,200,885
 2068,3-103,2020-03-18 0:00,cal. enigma res,205,885
@@ -2066,14 +2066,14 @@
 2073,3-108,2020-03-19 0:00,cal. yolo white le19,105,442
 2074,3-109,2020-03-19 0:00,pacific quart red le19,107.5,442
 2075,3-110,2020-03-19 0:00,spa. cab/merlot/garn cm,165,340
-2076,3-111,2020-03-19 0:00,itl. pink pinot grigio res lr,200,673
+2076,3-111,2020-03-19 0:00,itl. pink pinot grigio res,200,673
 2077,3-112,2020-03-19 0:00,aus. cab sauv sel,205,856
 2078,3-113,2020-03-19 0:00,yakima viognier csc,235,827
 2079,3-114,2020-03-19 0:00,yakima pinot gris pr,235,827
 2080,3-115,2020-03-19 0:00,aus. chardonnay wv,160,830
 2081,344,2020-03-19 0:00,arg. malbec csc + aging,-270,209
 2082,3-116,2020-03-20 0:00,itl. nebbiolo pr,240,802
-2083,3-117,2020-03-20 0:00,itl. pink pinot grigio res lr,200,668
+2083,3-117,2020-03-20 0:00,itl. pink pinot grigio res,200,668
 2084,3-118,2020-03-20 0:00,itl. amarone csc + aging,270,210
 2085,3-119,2020-03-20 0:00,spa. tempranillo le19,225,685
 2086,3-120,2020-03-21 0:00,cal. trinity red wv,155,211
@@ -2098,12 +2098,12 @@
 2105,3-139,2020-03-27 0:00,cal. enigma res,205,344
 2106,3-140,2020-03-27 0:00,ger. gewurz vr,150,615
 2107,3-140-1,2020-03-31 0:00,ger. gewurz vr,150,615
-2108,3-141,2020-03-28 0:00,itl. pink pinot grigio res lr,200,565
+2108,3-141,2020-03-28 0:00,itl. pink pinot grigio res,200,565
 2109,3-142,2020-03-28 0:00,ger. gewurz vr,130,824
 2110,3-143,2020-03-31 0:00,itl. brunello sel,205,212
 2111,3-144,2020-03-31 0:00,itl. sangiovese cl,165,417
 2112,3-145,2020-03-31 0:00,itl. pinot grigio res,200,683
-2113,3-146,2020-03-31 0:00,itl. pink pinot grigio res lr,200,511
+2113,3-146,2020-03-31 0:00,itl. pink pinot grigio res,200,511
 2114,3-147,2020-03-31 0:00,fr. union red pp20 + aging,255,242
 2115,3-148,2020-03-31 0:00,chil. carm. petit verdot pp20 + aging,265,242
 2116,3-149,2020-03-31 0:00,chil. carm. petit verdot pp20 + aging,265,504
@@ -2128,7 +2128,7 @@
 2138,419,2020-04-07 0:00,itl. nebbiolo pr + aging,270,365
 2139,420,2020-04-07 0:00,chil. carm. petit verdot pp20 + aging,270,365
 2140,421,2020-04-07 0:00,fw mango citrus im,140,518
-2141,422,2020-04-08 0:00,itl. pink pinot grigio res lr,200,213
+2141,422,2020-04-08 0:00,itl. pink pinot grigio res,200,213
 2142,423,2020-04-08 0:00,n.z. sauv blanc pr,235,795
 2143,424,2020-04-09 0:00,aus. tram-ries res + 1/2 tsp so2,190,927
 2144,425,2020-04-09 0:00,ger. gewurz res + 1/2 tsp so2,190,927
@@ -2171,7 +2171,7 @@
 2181,462,2020-04-17 0:00,cal. cab merlot res,195,215
 2182,463,2020-04-18 0:00,cal. chardonnay cl,155,279
 2183,464,2020-04-18 0:00,chil. malbec cl,165,564
-2184,465,2020-04-21 0:00,itl. pink pinot grigio res lr,83,547
+2184,465,2020-04-21 0:00,itl. pink pinot grigio res,83,547
 2185,466,2020-04-21 0:00,chil. carm. petit verdot pp20,100,547
 2186,467,2020-04-21 0:00,s.a. cape blend le19 + aging,100,547
 2187,468,2020-04-21 0:00,itl. pinot grigio res,200,624
@@ -2187,7 +2187,7 @@
 2197,478,2020-04-22 0:00,wash. riesling cl,150,332
 2198,479,2020-04-22 0:00,cal. gewurz cl,145,332
 2199,480,2020-04-22 0:00,cal. white zin vr,5.2,647
-2200,481,2020-04-22 0:00,itl. pink pinot grigio res lr,5.2,439
+2200,481,2020-04-22 0:00,itl. pink pinot grigio res,5.2,439
 2201,482,2020-04-22 0:00,cal. pinot noir cl,165,840
 2202,483,2020-04-22 0:00,chil. merlot cl,165,217
 2203,484,2020-04-22 0:00,itl. pinot grigio cl,160,744
@@ -2353,8 +2353,8 @@
 2366,5-102,2020-05-15 0:00,gewurz cl,140,824
 2367,5-103,2020-05-15 0:00,aus. tram riesl sel,200,807
 2368,5-104,2020-05-15 0:00,n.z. sauv blanc pr,235,533
-2369,5-105,2020-05-19 0:00,itl. pink pinot grigio res lr,200,798
-2370,5-106,2020-05-19 0:00,itl. pink pinot grigio res lr,200,798
+2369,5-105,2020-05-19 0:00,itl. pink pinot grigio res,200,798
+2370,5-106,2020-05-19 0:00,itl. pink pinot grigio res,200,798
 2371,5-107,2020-05-19 0:00,itl. pinot grigio cl,160,348
 2372,5-108,2020-05-19 0:00,itl. pinot grigio cl,150,552
 2373,5-109,2020-05-19 0:00,itl. amarone res,190,552
@@ -2383,8 +2383,8 @@
 2396,5-132,2020-05-21 0:00,chil. merlot cl,165,485
 2397,5-133,2020-05-21 0:00,itl. nebbiolo pr,240,802
 2398,5-134,2020-05-21 0:00,wash. riesling cl,160,233
-2399,5-135,2020-05-21 0:00,itl. pink pinot grigio res lr,200,234
-2400,5-136,2020-05-21 0:00,itl. pink pinot grigio res lr,200,234
+2399,5-135,2020-05-21 0:00,itl. pink pinot grigio res,200,234
+2400,5-136,2020-05-21 0:00,itl. pink pinot grigio res,200,234
 2401,5-137,2020-05-22 0:00,chil. carm. petit verdot pp20 + aging,240,863
 2402,5-138,2020-05-22 0:00,aus. cab sauv res,200,886
 2403,5-139,2020-05-22 0:00,aus. cab sauv res,200,886
@@ -2475,30 +2475,30 @@
 2491,644,2020-06-10 0:00,itl. luna rossa res + 1/2 tsp so2,205,378
 2492,645,2020-06-10 0:00,cal. trinity red cl + no oak,155,791
 2493,646,2020-06-10 0:00,cal. trinity red cl + no oak,155,791
-2494,647,2020-06-10 0:00,aus. boomerang red res lr + aging,235,875
+2494,647,2020-06-10 0:00,aus. boomerang red res + aging,235,875
 2495,648,2020-06-10 0:00,itl. amarone res,205,711
 2496,649,2020-06-10 0:00,wash. riesling cl,150,332
 2497,650,2020-06-10 0:00,cal. gewurz cl,145,332
-2498,651,2020-06-10 0:00,aus. boomerang white res lr,200,660
+2498,651,2020-06-10 0:00,aus. boomerang white res,200,660
 2499,652,2020-06-10 0:00,wash. pinot gris pr,235,242
-2500,653,2020-06-10 0:00,aus. boomerang red res lr,205,561
-2501,654,2020-06-10 0:00,aus. boomerang red res lr + aging,235,877
-2502,655,2020-06-10 0:00,aus. boomerang red res lr + aging,235,450
+2500,653,2020-06-10 0:00,aus. boomerang red res,205,561
+2501,654,2020-06-10 0:00,aus. boomerang red res + aging,235,877
+2502,655,2020-06-10 0:00,aus. boomerang red res + aging,235,450
 2503,656,2020-06-10 0:00,cal. gewurz cl,155,935
-2504,658,2020-06-11 0:00,itl. pink pinot grigio res lr,200,948
-2505,659,2020-06-11 0:00,itl. pink pinot grigio res lr,200,948
-2506,660,2020-06-11 0:00,itl. pink pinot grigio res lr,200,673
+2504,658,2020-06-11 0:00,itl. pink pinot grigio res,200,948
+2505,659,2020-06-11 0:00,itl. pink pinot grigio res,200,948
+2506,660,2020-06-11 0:00,itl. pink pinot grigio res,200,673
 2507,661,2020-06-11 0:00,itl. pinot grigio res,200,926
 2508,662,2020-06-11 0:00,chil. sauv. blanc cl,155,551
 2509,663,2020-06-11 0:00,chil. sauv. blanc cl,160,342
 2510,664,2020-06-11 0:00,itl. valroza cl,6,349
 2511,665,2020-06-11 0:00,itl. luna rossa res,205,363
-2512,666,2020-06-11 0:00,aus. boomerang white res lr,200,888
-2513,667,2020-06-11 0:00,aus. boomerang red res lr + aging,235,888
+2512,666,2020-06-11 0:00,aus. boomerang white res,200,888
+2513,667,2020-06-11 0:00,aus. boomerang red res + aging,235,888
 2514,669,2020-06-12 0:00,cal. sauv blanc res,200,815
 2515,670,2020-06-12 0:00,chil. malbec cl + no ban,165,534
-2516,671,2020-06-12 0:00,itl. pink pinot grigio res lr,200,798
-2517,672,2020-06-12 0:00,itl. pink pinot grigio res lr,200,798
+2516,671,2020-06-12 0:00,itl. pink pinot grigio res,200,798
+2517,672,2020-06-12 0:00,itl. pink pinot grigio res,200,798
 2518,673,2020-06-12 0:00,itl. amarone pr,240,530
 2519,674,2020-06-12 0:00,itl. pinot grigio res,200,468
 2520,675,2020-06-12 0:00,cal. gewurz cl,155,615
@@ -2506,23 +2506,23 @@
 2522,677,2020-06-12 0:00,itl. sangiovese cl,165,618
 2523,678,2020-06-12 0:00,itl. pinot grigio cl,160,946
 2524,679,2020-06-13 0:00,n.z. sauv blanc pr,235,243
-2525,680,2020-06-13 0:00,aus. boomerang red res lr,205,243
+2525,680,2020-06-13 0:00,aus. boomerang red res,205,243
 2526,681,2020-06-13 0:00,itl. pinot grigio res,200,454
 2527,682,2020-06-13 0:00,chil. carmenere res,205,454
 2528,683,2020-06-13 0:00,itl. pinot grigio res,200,607
-2529,684,2020-06-13 0:00,itl. pink pinot grigio res lr,200,607
+2529,684,2020-06-13 0:00,itl. pink pinot grigio res,200,607
 2530,685,2020-06-13 0:00,n.z. sauv blanc pr,235,269
 2531,686,2020-06-16 0:00,chil. sauv. blanc cl,160,906
 2532,687,2020-06-16 0:00,fw green apple im,140,449
 2533,688,2020-06-16 0:00,fr. bordeaux pr + aging,270,504
-2534,689,2020-06-16 0:00,aus. boomerang red res lr,205,653
+2534,689,2020-06-16 0:00,aus. boomerang red res,205,653
 2535,690,2020-06-16 0:00,cal. sauv blanc res,200,320
 2536,691,2020-06-16 0:00,aus. shiraz res,205,320
 2537,692,2020-06-16 0:00,fr. union white pp20,220,679
-2538,693,2020-06-16 0:00,aus. boomerang red res lr,205,305
-2539,694,2020-06-16 0:00,aus. boomerang white res lr,200,326
-2540,695,2020-06-16 0:00,aus. boomerang red res lr,205,326
-2541,696,2020-06-16 0:00,aus. boomerang white res lr,200,411
+2538,693,2020-06-16 0:00,aus. boomerang red res,205,305
+2539,694,2020-06-16 0:00,aus. boomerang white res,200,326
+2540,695,2020-06-16 0:00,aus. boomerang red res,205,326
+2541,696,2020-06-16 0:00,aus. boomerang white res,200,411
 2542,697,2020-06-16 0:00,sonoma chardonnay pr,225,441
 2543,699,2020-06-16 0:00,itl. pinot grigio cl,160,744
 2544,6-100,2020-06-16 0:00,chil. carm. petit verdot pp20,235,432
@@ -2534,15 +2534,15 @@
 2550,6-106,2020-06-17 0:00,n.z. sauv blanc pr,235,736
 2551,6-107,2020-06-17 0:00,cal. pinot noir cl,155,785
 2552,6-108,2020-06-17 0:00,aus. tram-ries res,200,657
-2553,6-109,2020-06-18 0:00,aus. boomerang red res lr,205,865
+2553,6-109,2020-06-18 0:00,aus. boomerang red res,205,865
 2554,6-110,2020-06-18 0:00,chil. cab sauv cl,165,840
 2555,6-111,2020-06-18 0:00,itl. amarone pr,240,345
-2556,6-112,2020-06-18 0:00,aus. boomerang white res lr,200,879
-2557,6-113,2020-06-19 0:00,aus. boomerang white res lr,200,318
+2556,6-112,2020-06-18 0:00,aus. boomerang white res,200,879
+2557,6-113,2020-06-19 0:00,aus. boomerang white res,200,318
 2558,6-114,2020-06-19 0:00,aus. grenache rose res,200,244
 2559,6-115,2020-06-19 0:00,ger. gewurz res,200,737
 2560,6-116,2020-06-19 0:00,chil. pinot noir res + 2 tbsp of blk pep,205,737
-2561,6-117,2020-06-19 0:00,itl. pink pinot grigio res lr,200,266
+2561,6-117,2020-06-19 0:00,itl. pink pinot grigio res,200,266
 2562,6-118,2020-06-19 0:00,cal. goldmine os lr,160,868
 2563,6-119,2020-06-19 0:00,aus. shiraz res,205,915
 2564,6-120,2020-06-19 0:00,aus. shiraz res,205,915
@@ -2554,7 +2554,7 @@
 2570,6-126,2020-06-19 0:00,aus. shiraz res,205,295
 2571,6-127,2020-06-20 0:00,itl. amarone pr + aging,270,800
 2572,6-128,2020-06-20 0:00,chil. sauv. blanc cl,160,732
-2573,6-129,2020-06-20 0:00,aus. boomerang red res lr,205,685
+2573,6-129,2020-06-20 0:00,aus. boomerang red res,205,685
 2574,6-130,2020-06-20 0:00,cal. v.c.d.r. cl + 6.4g global yeast energizer,165,340
 2575,6-131,2020-06-23 0:00,aus. tram-ries res,200,837
 2576,6-132,2020-06-23 0:00,fr. bordeaux pr + aging,270,837
@@ -2566,8 +2566,8 @@
 2582,6-138,2020-06-23 0:00,chil. pinot noir res,205,747
 2583,6-139,2020-06-23 0:00,aus. cab sauv res,205,245
 2584,6-140,2020-06-23 0:00,wash. riesling cl,160,423
-2585,6-141,2020-06-23 0:00,aus. boomerang white res lr,200,684
-2586,6-142,2020-06-23 0:00,aus. boomerang red res lr,205,684
+2585,6-141,2020-06-23 0:00,aus. boomerang white res,200,684
+2586,6-142,2020-06-23 0:00,aus. boomerang red res,205,684
 2587,6-143,2020-06-24 0:00,cal. moscato cl,160,728
 2588,6-144,2020-06-24 0:00,cal. yolo white le19,220,753
 2589,6-145,2020-06-24 0:00,spa/aus. dos gren. pp20 + aging,255,753
@@ -2582,7 +2582,7 @@
 2598,6-154,2020-06-25 0:00,aus. tram-ries res,200,807
 2599,6-157,2020-06-26 0:00,itl. pinot grigio res,200,247
 2600,6-158,2020-06-26 0:00,fw black cherry im,140,247
-2601,6-159,2020-06-26 0:00,aus. boomerang white res lr,200,892
+2601,6-159,2020-06-26 0:00,aus. boomerang white res,200,892
 2602,6-160,2020-06-26 0:00,chil. merlot cl,165,447
 2603,6-161,2020-06-26 0:00,cal. viognier cl,160,786
 2604,6-162,2020-06-26 0:00,cal. pinot noir cl,165,786
@@ -2591,7 +2591,7 @@
 2607,6-165,2020-06-26 0:00,chil. diablo rojo cl,165,455
 2608,6-166,2020-06-27 0:00,wash. riesling cl,160,540
 2609,6-167,2020-06-27 0:00,fr. bordeaux pr + aging,270,501
-2610,6-168,2020-06-27 0:00,aus. boomerang red res lr,205,844
+2610,6-168,2020-06-27 0:00,aus. boomerang red res,205,844
 2611,6-169,2020-06-27 0:00,itl. pinot grigio cl,165,248
 2612,6-170,2020-06-27 0:00,chil. cab sauv cl,165,248
 2613,6-171,2020-06-27 0:00,chil. carmenere res,195,348
@@ -2608,17 +2608,17 @@
 2627,708,2020-07-02 0:00,cal. riesling res dry,200,860
 2628,709,2020-07-02 0:00,cal. viognier cl,160,860
 2629,710,2020-07-02 0:00,chil. malbec cl,165,485
-2630,711,2020-07-02 0:00,itl. pink pinot grigio res lr,200,636
+2630,711,2020-07-02 0:00,itl. pink pinot grigio res,200,636
 2631,712,2020-07-02 0:00,aus. cab sauv res + 1/2 tsp so2,205,857
 2632,713,2020-07-02 0:00,aus. cab sauv res + 1/2 tsp so2,205,857
 2633,714,2020-07-03 0:00,n.z. sauv blanc ss,235,421
-2634,715,2020-07-03 0:00,aus. boomerang red res lr,205,422
-2635,716,2020-07-03 0:00,itl. pink pinot grigio res lr,200,455
+2634,715,2020-07-03 0:00,aus. boomerang red res,205,422
+2635,716,2020-07-03 0:00,itl. pink pinot grigio res,200,455
 2636,717,2020-07-04 0:00,n.z. sauv blanc ss,235,766
-2637,718,2020-07-04 0:00,aus. boomerang red res lr + aging,205,524
+2637,718,2020-07-04 0:00,aus. boomerang red res + aging,205,524
 2638,719,2020-07-04 0:00,aus. tram-ries res + 1/2 tsp so2,190,927
 2639,720,2020-07-04 0:00,ger. gewurz res + 1/2 tsp so2,190,927
-2640,721,2020-07-04 0:00,itl. pink pinot grigio res lr,190,927
+2640,721,2020-07-04 0:00,itl. pink pinot grigio res,190,927
 2641,722,2020-07-04 0:00,itl. fiero pr lr + aging,270,927
 2642,723,2020-07-04 0:00,aus. g.s.m. cl,165,848
 2643,724,2020-07-04 0:00,itl. luna rossa res,205,553
@@ -2702,7 +2702,7 @@
 2721,7-101,2020-07-18 0:00,n.z. sauv blanc pr,235,511
 2722,7-102,2020-07-18 0:00,n.z. sauv blanc pr,235,897
 2723,7-103,2020-07-18 0:00,itl. super tuscan pr,240,897
-2724,7-104,2020-07-18 0:00,aus. boomerang white res lr,200,280
+2724,7-104,2020-07-18 0:00,aus. boomerang white res,200,280
 2725,7-105,2020-07-21 0:00,cal. shiraz cl,165,283
 2726,7-106,2020-07-21 0:00,cal. white oth,140,835
 2727,7-107,2020-07-21 0:00,itl. fiero pr lr + aging,270,418
@@ -2711,17 +2711,17 @@
 2730,7-110,2020-07-21 0:00,cal. white zin cl,160,372
 2731,7-111,2020-07-21 0:00,itl. fiero pr lr,240,487
 2732,7-112,2020-07-21 0:00,wash. riesling cl,150,822
-2733,7-113,2020-07-21 0:00,aus. boomerang red res lr + aging,235,411
+2733,7-113,2020-07-21 0:00,aus. boomerang red res + aging,235,411
 2734,7-114,2020-07-21 0:00,cal. gewurz cl,140,824
-2735,7-115,2020-07-21 0:00,aus. boomerang red res lr,205,673
+2735,7-115,2020-07-21 0:00,aus. boomerang red res,205,673
 2736,7-116,2020-07-22 0:00,cal. enigma res,205,908
 2737,7-117,2020-07-22 0:00,pinot grigio oth,140,884
 2738,7-118,2020-07-22 0:00,aus. cab sauv res,205,286
 2739,7-119,2020-07-22 0:00,aus. tram-ries res,200,807
 2740,7-120,2020-07-22 0:00,cal. enigma res,205,807
 2741,7-121,2020-07-23 0:00,cal. goldmine os lr,160,659
-2742,7-122,2020-07-23 0:00,aus. boomerang white res lr,200,874
-2743,7-123,2020-07-23 0:00,aus. boomerang red res lr,205,378
+2742,7-122,2020-07-23 0:00,aus. boomerang white res,200,874
+2743,7-123,2020-07-23 0:00,aus. boomerang red res,205,378
 2744,7-124,2020-07-24 0:00,cal. enigma res + aging,235,702
 2745,7-125,2020-07-24 0:00,wash. pinot gris pr,235,823
 2746,7-126,2020-07-24 0:00,sauv blanc oth,140,689
@@ -2811,7 +2811,7 @@
 2833,842,2020-08-07 0:00,chil. merlot cl,200,339
 2834,843,2020-08-07 0:00,wash. pinot gris pr,235,875
 2835,844,2020-08-07 0:00,fr. bordeaux pr,240,685
-2836,845,2020-08-07 0:00,itl. pink pinot grigio res lr,200,542
+2836,845,2020-08-07 0:00,itl. pink pinot grigio res,200,542
 2837,847,2020-08-08 0:00,itl. fiero pr lr + aging,270,837
 2838,848,2020-08-08 0:00,aus. chardonnay res,200,931
 2839,849,2020-08-08 0:00,itl. pinot grigio cl,160,586
@@ -2844,7 +2844,7 @@
 2866,876,2020-08-15 0:00,itl. pinot grigio res,200,941
 2867,877,2020-08-15 0:00,itl. pinot grigio res,200,348
 2868,878,2020-08-15 0:00,aus. grenache rose res,200,275
-2869,879,2020-08-15 0:00,itl. pink pinot grigio res lr,200,673
+2869,879,2020-08-15 0:00,itl. pink pinot grigio res,200,673
 2870,880,2020-08-18 0:00,cal. viognier cl,160,860
 2871,881,2020-08-18 0:00,itl. pinot grigio res,200,860
 2872,882,2020-08-18 0:00,itl. amarone pr + aging,240,756
@@ -2852,12 +2852,12 @@
 2874,884,2020-08-18 0:00,n.z. sauv blanc pr,235,661
 2875,885,2020-08-19 0:00,chil. merlot cl,165,331
 2876,886,2020-08-19 0:00,itl. pinot grigio res,200,683
-2877,887,2020-08-19 0:00,itl. pink pinot grigio res lr,190,276
+2877,887,2020-08-19 0:00,itl. pink pinot grigio res,190,276
 2878,888,2020-08-19 0:00,lodi cab sauv pr,240,277
 2879,889,2020-08-19 0:00,cal. gewurz cl,140,824
 2880,890,2020-08-20 0:00,wash. riesling cl,160,540
 2881,891,2020-08-21 0:00,arg. malbec res 1/2 oak,205,680
-2882,892,2020-08-21 0:00,itl. pink pinot grigio res lr,190,455
+2882,892,2020-08-21 0:00,itl. pink pinot grigio res,190,455
 2883,893,2020-08-22 0:00,lodi zinfandel pr + aging,270,278
 2884,894,2020-08-22 0:00,lodi cab sauv pr + aging,270,519
 2885,895,2020-08-22 0:00,aus. cab sauv res + 1/2 tsp so2,205,857
@@ -2878,7 +2878,7 @@
 2900,8-110,2020-08-26 0:00,s.a. cape blend le19 + aging,215,731
 2901,8-111,2020-08-26 0:00,chil. cab sauv cl,165,644
 2902,8-112,2020-08-26 0:00,itl. valroza os,6,349
-2903,8-114,2020-08-27 0:00,itl. pink pinot grigio res lr,200,948
+2903,8-114,2020-08-27 0:00,itl. pink pinot grigio res,200,948
 2904,8-115,2020-08-27 0:00,itl. amarone pr,240,539
 2905,8-116,2020-08-27 0:00,lodi o.v. zin pr,240,539
 2906,8-117,2020-08-28 0:00,itl. fiero pr lr,240,345
@@ -2895,7 +2895,7 @@
 2920,902,2020-09-01 0:00,cal. merlot res,195,532
 2921,903,2020-09-01 0:00,itl. pinot grigio cl,160,520
 2922,904,2020-09-01 0:00,chil. sauv. blanc cl,160,874
-2923,905,2020-09-01 0:00,itl. pink pinot grigio res lr,190,404
+2923,905,2020-09-01 0:00,itl. pink pinot grigio res,190,404
 2924,906,2020-09-01 0:00,cal. enigma res,195,404
 2925,907,2020-09-01 0:00,aus. cab sauv res,195,404
 2926,908,2020-09-02 0:00,itl. valroza os,6,350
@@ -2907,11 +2907,11 @@
 2932,914,2020-09-02 0:00,pinot grigio oth,140,835
 2933,915,2020-09-02 0:00,n.z. pinot noir pr + aging,240,392
 2934,916,2020-09-03 0:00,wash. riesling cl,150,822
-2935,917,2020-09-03 0:00,itl. pink pinot grigio res lr,5.2,439
+2935,917,2020-09-03 0:00,itl. pink pinot grigio res,5.2,439
 2936,918,2020-09-03 0:00,cal. chardonnay cl,160,738
 2937,919,2020-09-03 0:00,spa. tempranillo cl,165,848
 2938,920,2020-09-03 0:00,itl. luna rossa res,205,719
-2939,921,2020-09-03 0:00,itl. pink pinot grigio res lr,5.2,636
+2939,921,2020-09-03 0:00,itl. pink pinot grigio res,5.2,636
 2940,922,2020-09-03 0:00,pinot grigio oth,140,884
 2941,923,2020-09-03 0:00,aus. tram-ries res,200,807
 2942,924,2020-09-03 0:00,cal. enigma res + aging,235,807
@@ -2946,7 +2946,7 @@
 2971,953,2020-09-12 0:00,n.z. sauv blanc pr,235,286
 2972,954,2020-09-12 0:00,aus. cab sauv res,205,286
 2973,955,2020-09-12 0:00,itl. pinot grigio res,200,287
-2974,956,2020-09-12 0:00,aus. boomerang red res lr,195,844
+2974,956,2020-09-12 0:00,aus. boomerang red res,195,844
 2975,957,2020-09-12 0:00,cal. pinot noir cl,155,844
 2976,958,2020-09-12 0:00,cal. white zin cl,0,647
 2977,959,2020-09-12 0:00,sonoma chardonnay pr,235,897
@@ -2954,7 +2954,7 @@
 2979,961,2020-09-12 0:00,itl. pinot grigio res,200,468
 2980,962,2020-09-12 0:00,itl. pinot grigio res,200,668
 2981,963,2020-09-12 0:00,aus. cab sauv res,200,668
-2982,964,2020-09-12 0:00,aus. boomerang red res lr,205,865
+2982,964,2020-09-12 0:00,aus. boomerang red res,205,865
 2983,965,2020-09-15 0:00,n.z. sauv blanc pr,235,511
 2984,966,2020-09-15 0:00,aus. shiraz res,205,511
 2985,967,2020-09-15 0:00,cal. gewurz cl,160,316
@@ -3024,7 +3024,7 @@
 3049,9-131,2020-09-23 0:00,chil. malbec cl,165,830
 3050,9-132,2020-09-24 0:00,itl. pinot grigio res,200,756
 3051,9-133,2020-09-24 0:00,itl. pinot grigio cl,160,867
-3052,9-134,2020-09-24 0:00,itl. pink pinot grigio res lr,200,902
+3052,9-134,2020-09-24 0:00,itl. pink pinot grigio res,200,902
 3053,9-135,2020-09-24 0:00,chil. cab sauv cl,165,902
 3054,9-136,2020-09-24 0:00,s.a. cape blend le19 + aging,245,823
 3055,9-137,2020-09-24 0:00,aus. tram-ries res,200,837
@@ -3079,7 +3079,7 @@
 3107,1012,2020-10-02 0:00,wash. riesling cl,160,540
 3108,1013,2020-10-02 0:00,aus. shiraz res,205,915
 3109,1014,2020-10-02 0:00,aus. shiraz res,205,915
-3110,1015,2020-10-02 0:00,aus. boomerang white res lr,200,660
+3110,1015,2020-10-02 0:00,aus. boomerang white res,200,660
 3111,1016,2020-10-02 0:00,cal. v.c.d.r. cl + 6.4g global yeast energizer,165,340
 3112,1017,2020-10-02 0:00,itl. super tuscan pr,240,871
 3113,1018,2020-10-03 0:00,n.z. pinot noir pr,240,412
@@ -3158,7 +3158,7 @@
 3186,1082,2020-10-17 0:00,cal. yolo white le19 + 1/2 tsp so2,200,777
 3187,1083,2020-10-17 0:00,ger. gewurz res + 1/2 tsp so2,190,927
 3188,1084,2020-10-17 0:00,cal. yolo white le19 + 1/2 tsp so2,200,927
-3189,1085,2020-10-17 0:00,itl. pink pinot grigio res lr,200,890
+3189,1085,2020-10-17 0:00,itl. pink pinot grigio res,200,890
 3190,1086,2020-10-17 0:00,itl. pinot grigio res,200,655
 3191,1087,2020-10-17 0:00,aus. cab sauv res,205,655
 3192,1088,2020-10-17 0:00,aus. cab sauv res,205,655
@@ -3810,7 +3810,7 @@
 3847,1-171,2021-01-29 0:00,spa. tempranillo cl,155,483
 3848,1-172,2021-01-29 0:00,wash. riesling cl,150,822
 3849,1-173,2021-01-29 0:00,arg. malbec res,205,787
-3850,1-174,2021-01-29 0:00,wash. sangio rosé res lr,205,673
+3850,1-174,2021-01-29 0:00,wash. sangio rosa res,205,673
 3851,1-175,2021-01-29 0:00,itl. pinot grigio cl,160,896
 3852,1-176,2021-01-29 0:00,itl. amarone pr + aging,260,365
 3853,1-177,2021-01-29 0:00,itl. luna rossa res,205,366
@@ -3847,7 +3847,7 @@
 3887,224,2021-02-04 0:00,aus. tram-ries res,200,807
 3888,225,2021-02-04 0:00,cal. enigma res,175,807
 3889,226,2021-02-04 0:00,itl. pinot grigio res,200,468
-3890,227,2021-02-04 0:00,wash. sangio rosé res lr,205,403
+3890,227,2021-02-04 0:00,wash. sangio rosa res,205,403
 3891,228,2021-02-04 0:00,itl. pinot grigio res + 100ml cc,200,798
 3892,229,2021-02-04 0:00,cal. enigma res,205,393
 3893,230,2021-02-04 0:00,itl. amarone pr + 1/2 oak,240,393
@@ -3860,7 +3860,7 @@
 3900,237,2021-02-05 0:00,nz merlot pp21,113,449
 3901,238,2021-02-05 0:00,nz merlot pp21,113,369
 3902,239,2021-02-05 0:00,itl. nerello le20,113,608
-3903,240,2021-02-05 0:00,wash. sangio rosé res lr,195,539
+3903,240,2021-02-05 0:00,wash. sangio rosa res,195,539
 3904,241,2021-02-05 0:00,cal. cab merlot res,195,539
 3905,242,2021-02-05 0:00,aus. tram-ries res + 1/2 tsp so2,190,927
 3906,243,2021-02-05 0:00,ger. gewurz res + 1/2 tsp so2,190,927
@@ -3877,7 +3877,7 @@
 3917,254,2021-02-06 0:00,cal. cab merlot res,195,532
 3918,255,2021-02-06 0:00,n/s port apres ,165,548
 3919,256,2021-02-06 0:00,chil. diablo rojo cl,155,902
-3920,257,2021-02-06 0:00,wash. sangio rosé res lr,195,902
+3920,257,2021-02-06 0:00,wash. sangio rosa res,195,902
 3921,258,2021-02-09 0:00,chil. pinot noir res,205,855
 3922,259,2021-02-09 0:00,chil. merlot cl,165,909
 3923,260,2021-02-09 0:00,cal. viognier cl,150,744
@@ -3897,14 +3897,14 @@
 3937,274,2021-02-11 0:00,n.z. sauv blanc pr,235,661
 3938,275,2021-02-11 0:00,aus. shiraz res,195,371
 3939,276,2021-02-11 0:00,cal. gewurz cl,150,824
-3940,277,2021-02-12 0:00,wash. sangio rosé res lr,195,933
+3940,277,2021-02-12 0:00,wash. sangio rosa res,195,933
 3941,278,2021-02-12 0:00,chil. sauv. blanc cl,160,732
 3942,279,2021-02-12 0:00,itl. pinot grigio res,200,812
 3943,280,2021-02-12 0:00,aus. chardonnay res,200,717
 3944,281,2021-02-12 0:00,sonoma chardonnay pr + no oak,235,827
 3945,282,2021-02-12 0:00,n.z. sauv blanc pr,235,827
 3946,283,2021-02-12 0:00,cal. pinot noir cl,165,785
-3947,284,2021-02-12 0:00,wash. sangio rosé res lr,195,687
+3947,284,2021-02-12 0:00,wash. sangio rosa res,195,687
 3948,285,2021-02-12 0:00,n.z. sauv blanc pr,235,533
 3949,286,2021-02-17 0:00,cal. shiraz cl,155,765
 3950,287,2021-02-17 0:00,cal. chardonnay cl,160,840
@@ -3915,7 +3915,7 @@
 3955,292,2021-02-18 0:00,cal. cab merlot res,195,903
 3956,293,2021-02-18 0:00,cal. white zin cl,160,814
 3957,294,2021-02-18 0:00,itl. pinot grigio cl,160,814
-3958,295,2021-02-18 0:00,wash. sangio rosé res lr,195,372
+3958,295,2021-02-18 0:00,wash. sangio rosa res,195,372
 3959,296,2021-02-18 0:00,aus. cab shiraz res,205,568
 3960,297,2021-02-18 0:00,cal. merlot res,205,838
 3961,298,2021-02-18 0:00,itl. valroza cl,165,587
@@ -3926,11 +3926,11 @@
 3966,2-103,2021-02-19 0:00,chil. cab sauv cl + 2x oak,165,650
 3967,2-104,2021-02-19 0:00,cal. shiraz cl + 2x oak,165,650
 3968,2-105,2021-02-19 0:00,cal. cab merlot res,195,680
-3969,2-106,2021-02-19 0:00,wash. sangio rosé res lr,195,795
+3969,2-106,2021-02-19 0:00,wash. sangio rosa res,195,795
 3970,2-107,2021-02-19 0:00,arg. malbec res + aging,235,837
 3971,2-108,2021-02-19 0:00,cal. viognier cl,150,660
-3972,2-109,2021-02-19 0:00,wash. sangio rosé res lr,195,660
-3973,2-110,2021-02-19 0:00,wash. sangio rosé res lr,195,542
+3972,2-109,2021-02-19 0:00,wash. sangio rosa res,195,660
+3973,2-110,2021-02-19 0:00,wash. sangio rosa res,195,542
 3974,2-111,2021-02-19 0:00,itl. pinot grigio res,200,374
 3975,2-112,2021-02-19 0:00,wash. pinot gris pr,235,374
 3976,2-113,2021-02-19 0:00,cal. cab merlot res + aging,235,374
@@ -3939,7 +3939,7 @@
 3979,2-116,2021-02-20 0:00,metamorphosis + aging,225,672
 3980,2-117,2021-02-20 0:00,aus. cab sauv res,205,375
 3981,2-118,2021-02-20 0:00,itl. luna rossa res,205,524
-3982,2-119,2021-02-20 0:00,wash. sangio rosé res lr,195,932
+3982,2-119,2021-02-20 0:00,wash. sangio rosa res,195,932
 3983,2-120,2021-02-20 0:00,cal. pinot noir cl,165,616
 3984,2-121,2021-02-20 0:00,cal. riesling res,200,836
 3985,2-122,2021-02-20 0:00,ger. gewurz res,200,836
@@ -3951,7 +3951,7 @@
 3991,2-128,2021-02-23 0:00,aus. tram-ries res,200,807
 3992,2-129,2021-02-23 0:00,itl. amarone pr,240,831
 3993,2-130,2021-02-23 0:00,itl. amarone pr,240,831
-3994,2-131,2021-02-23 0:00,wash. sangio rosé res lr,195,404
+3994,2-131,2021-02-23 0:00,wash. sangio rosa res,195,404
 3995,2-132,2021-02-23 0:00,itl. amarone res,205,404
 3996,2-133,2021-02-24 0:00,ger. gewurz res,200,479
 3997,2-134,2021-02-24 0:00,itl. pinot grigio res,200,377
@@ -3979,12 +3979,12 @@
 4019,2-156,2021-02-26 0:00,sa/aust 3 post white pp21,220,933
 4020,2-157,2021-02-26 0:00,aus. tram-ries res + 1/2 tsp so2,180,927
 4021,2-158,2021-02-26 0:00,ger. gewurz res + 1/2 tsp so2,180,927
-4022,2-159,2021-02-26 0:00,wash. sangio rosé res lr,185,927
+4022,2-159,2021-02-26 0:00,wash. sangio rosa res,185,927
 4023,2-160,2021-02-26 0:00,metamorphosis + aging,215,927
 4024,2-161,2021-02-26 0:00,itl. barbera pp21 + aging,140,927
 4025,2-162,2021-02-26 0:00,itl. pinot grigio cl,160,878
 4026,2-163,2021-02-27 0:00,pinot grigio oth,140,689
-4027,2-164,2021-02-27 0:00,wash. sangio rosé res lr,195,565
+4027,2-164,2021-02-27 0:00,wash. sangio rosa res,195,565
 4028,2-165,2021-02-27 0:00,sonoma chardonnay pr,235,799
 4029,2-166,2021-02-27 0:00,chil. pinot noir res,205,799
 4033,301,2021-03-02 0:00,cal. synergy le20,110,892
@@ -4018,7 +4018,7 @@
 4061,329,2021-03-06 0:00,chil. cab sauv cl + 6.4g global yeast energizer,155,698
 4062,330,2021-03-06 0:00,cal. chardonnay cl,160,738
 4063,331,2021-03-06 0:00,itl. pinot grigio res,200,738
-4064,332,2021-03-06 0:00,wash. sangio rosé res lr,195,455
+4064,332,2021-03-06 0:00,wash. sangio rosa res,195,455
 4065,333,2021-03-06 0:00,metamorphosis + aging,225,455
 4066,334,2021-03-06 0:00,itl. barbera pp21,120,929
 4067,335,2021-03-06 0:00,itl. barbera pp21 + aging,135,560
@@ -4064,7 +4064,7 @@
 4107,375,2021-03-16 0:00,aus. cab shiraz res,205,926
 4108,376,2021-03-16 0:00,cal. enigma res + 2/3 f pak,205,851
 4109,377,2021-03-16 0:00,itl. pinot grigio cl,160,744
-4110,378,2021-03-16 0:00,wash. sangio rosé res lr,195,383
+4110,378,2021-03-16 0:00,wash. sangio rosa res,195,383
 4111,379,2021-03-17 0:00,itl. nebbiolo pr,240,897
 4112,380,2021-03-17 0:00,cal. viognier cl,160,555
 4113,381,2021-03-17 0:00,cal. viognier cl,160,555
@@ -4084,24 +4084,24 @@
 4127,395,2021-03-19 0:00,wash. riesling cl + 200ml cc,160,424
 4128,396,2021-03-19 0:00,aus. tram-ries res + 1/2 tsp so2 + flav,190,927
 4129,397,2021-03-19 0:00,ger. gewurz res + 1/2 tsp so2 + flav,190,927
-4130,398,2021-03-19 0:00,wash. sangio rosé res lr,195,798
+4130,398,2021-03-19 0:00,wash. sangio rosa res,195,798
 4131,399,2021-03-20 0:00,itl. amarone res,205,385
 4132,3-100,2021-03-20 0:00,itl. amarone res,205,385
 4133,3-101,2021-03-20 0:00,itl. barbera pp21 + aging,270,386
 4134,3-102,2021-03-20 0:00,itl. amarone res,205,387
 4135,3-103,2021-03-20 0:00,lodi cab sauv pr,240,387
 4136,3-104,2021-03-20 0:00,cal. synergy le20,220,950
-4137,3-105,2021-03-20 0:00,wash. sangio rosé res lr,195,950
+4137,3-105,2021-03-20 0:00,wash. sangio rosa res,195,950
 4138,3-106,2021-03-20 0:00,itl. barbera pp21 + aging,270,950
 4139,3-107,2021-03-20 0:00,itl. barbera pp21 + aging,240,869
 4140,3-108,2021-03-20 0:00,aust/cal gre tan shiraz le20 + aging,240,869
 4141,3-109,2021-03-20 0:00,itl. pinot grigio cl,160,602
 4142,3-110,2021-03-20 0:00,itl. pinot grigio cl,160,602
-4143,3-111,2021-03-20 0:00,wash. sangio rosé res lr,195,889
+4143,3-111,2021-03-20 0:00,wash. sangio rosa res,195,889
 4144,3-112,2021-03-20 0:00,cal. moscato cl,160,541
 4145,3-113,2021-03-20 0:00,cal. moscato cl,160,388
 4146,3-114,2021-03-20 0:00,fw rasp. peach sangria im,140,388
-4147,3-115,2021-03-23 0:00,wash. sangio rosé res lr,195,389
+4147,3-115,2021-03-23 0:00,wash. sangio rosa res,195,389
 4148,3-116,2021-03-23 0:00,aus. grenache rose res + 250ml cc,195,389
 4149,3-117,2021-03-23 0:00,cal. white zin cl,165,389
 4150,3-118,2021-03-23 0:00,aus. grenache rose res,205,389
@@ -5592,9 +5592,9 @@
 5665,216,2022-02-02 0:00,n.z. sauv blanc pr,235,533
 5666,217,2022-02-02 0:00,itl. valroza cl,6,912
 5667,218,2022-02-02 0:00,aus. tram-ries res,200,672
-5668,219,2022-02-02 0:00,wash. sangio rosé res lr,190,672
+5668,219,2022-02-02 0:00,wash. sangio rosa res,190,672
 5669,220,2022-02-02 0:00,fr. marselan le21 + aging,135,672
-5670,221,2022-02-02 0:00,wash. sangio rosé res lr,190,660
+5670,221,2022-02-02 0:00,wash. sangio rosa res,190,660
 5671,222,2022-02-02 0:00,chil. merlot cl,165,946
 5672,223,2022-02-03 0:00,cal. pinot noir cl,165,895
 5673,224,2022-02-03 0:00,arg. malbec res,205,534
@@ -5624,8 +5624,8 @@
 5697,247,2022-02-05 0:00,spa. tempranillo bobal pp22,113,903
 5698,248,2022-02-05 0:00,itl. primitivo pp22,226,903
 5699,249,2022-02-05 0:00,fw peach apricot im,140,537
-5700,250,2022-02-08 0:00,wash. sangio rosé res lr,95,933
-5701,251,2022-02-08 0:00,wash. sangio rosé res lr,95,933
+5700,250,2022-02-08 0:00,wash. sangio rosa res,95,933
+5701,251,2022-02-08 0:00,wash. sangio rosa res,95,933
 5702,252,2022-02-08 0:00,itl. pinot grigio cl,160,538
 5703,253,2022-02-08 0:00,cal. sauv blanc res,200,538
 5704,254,2022-02-08 0:00,chil. cab sauv cl,165,538
@@ -5637,10 +5637,10 @@
 5710,260,2022-02-09 0:00,itl. grillo pinot grigio pp22,220,539
 5711,261,2022-02-09 0:00,cal. cab merlot res,195,539
 5712,262,2022-02-09 0:00,wash. riesling cl,160,540
-5713,263,2022-02-09 0:00,cal. gewurz cl 1/2 batch,80,695
-5714,264,2022-02-09 0:00,cal. riesling res 1/2 batch,100,695
-5715,265,2022-02-09 0:00,wash. pinot gris pr 1/2 batch,117.5,695
-5716,266,2022-02-09 0:00,chil. pinot noir res 1/2 batch,120,695
+5713,263,2022-02-09 0:00,cal. gewurz cl + 1/2 batch,80,695
+5714,264,2022-02-09 0:00,cal. riesling res + 1/2 batch,100,695
+5715,265,2022-02-09 0:00,wash. pinot gris pr + 1/2 batch,117.5,695
+5716,266,2022-02-09 0:00,chil. pinot noir res + 1/2 batch,120,695
 5717,267,2022-02-09 0:00,lodi cab sauv pr ,240,846
 5718,268,2022-02-09 0:00,cal. merlot res,205,721
 5719,269,2022-02-09 0:00,itl. pinot grigio cl,160,946
@@ -5651,7 +5651,7 @@
 5724,274,2022-02-10 0:00,itl. grillo pinot grigio pp22,220,678
 5725,275,2022-02-10 0:00,aus. shiraz res,205,678
 5726,276,2022-02-10 0:00,fr. marselan le21,113,820
-5727,277,2022-02-10 0:00,wash. sangio rosé res lr,190,798
+5727,277,2022-02-10 0:00,wash. sangio rosa res,190,798
 5728,278,2022-02-10 0:00,aus. g.s.m. cl,165,830
 5729,279,2022-02-10 0:00,aus. grenache rose res,205,830
 5730,280,2022-02-10 0:00,cal. gewurz cl,160,935
@@ -5667,16 +5667,16 @@
 5740,290,2022-02-11 0:00,wash. pinot gris pr + 10gr eno blk,235,683
 5741,291,2022-02-11 0:00,spa. tempranillo bobal pp22,0,885
 5742,292,2022-02-11 0:00,spa. tempranillo bobal pp22,5.2,801
-5743,293,2022-02-12 0:00,wash. sangio rosé res lr,190,685
+5743,293,2022-02-12 0:00,wash. sangio rosa res,190,685
 5744,294,2022-02-12 0:00,spa. tempranillo bobal pp22,113,685
 5745,295,2022-02-12 0:00,fr. marselan le21,113,714
 5746,296,2022-02-12 0:00,spa. tempranillo bobal pp22,113,877
 5747,297,2022-02-12 0:00,itl. sangiovese cl,165,541
 5748,298,2022-02-12 0:00,fr. vcdr res,205,541
 5749,299,2022-02-12 0:00,aus. cab sauv res,205,541
-5750,2-100,2022-02-12 0:00,wash. sangio rosé res lr,190,907
+5750,2-100,2022-02-12 0:00,wash. sangio rosa res,190,907
 5751,2-101,2022-02-12 0:00,fr. marselan le21,113,907
-5752,2-103,2022-02-12 0:00,wash. sangio rosé res lr,190,777
+5752,2-103,2022-02-12 0:00,wash. sangio rosa res,190,777
 5753,2-104,2022-02-12 0:00,fr. marselan le21 + aging,128,905
 5754,2-105,2022-02-12 0:00,cal. metamorphosis + aging,225,837
 5755,2-106,2022-02-12 0:00,itl. pinot grigio cl,160,738
@@ -5700,23 +5700,23 @@
 5773,2-124,2022-02-17 0:00,cal. enigma res,205,544
 5774,2-125,2022-02-17 0:00,itl. pinot grigio cl + 5gr eno blk,160,878
 5775,2-126,2022-02-17 0:00,cal. merlot res,205,772
-5776,2-127,2022-02-17 0:00,wash. sangio rosé res lr,95,937
+5776,2-127,2022-02-17 0:00,wash. sangio rosa res,95,937
 5777,2-128,2022-02-17 0:00,spa. tempranillo bobal pp22,113,642
-5778,2-129,2022-02-17 0:00,wash. sangio rosé res lr,95,753
+5778,2-129,2022-02-17 0:00,wash. sangio rosa res,95,753
 5779,2-130,2022-02-17 0:00,spa. grenache carignan le21 + aging ,226,734
 5780,2-132,2022-02-17 0:00,aus. tram-ries res + 1/2 tsp so2,190,927
-5781,2-133,2022-02-17 0:00,wash. sangio rosé res lr + 1/2 tsp so2,95,927
+5781,2-133,2022-02-17 0:00,wash. sangio rosa res + 1/2 tsp so2,95,927
 5782,2-134,2022-02-17 0:00,fr. marselan le21 + aging,55,927
-5783,2-135,2022-02-17 0:00,wash. sangio rosé res lr,190,673
+5783,2-135,2022-02-17 0:00,wash. sangio rosa res,190,673
 5784,2-136,2022-02-18 0:00,cal. viognier cl,160,744
 5785,2-137,2022-02-18 0:00,aus. cab shiraz res,205,545
-5786,2-138,2022-02-18 0:00,wash. sangio rosé res lr,95,606
-5787,2-139,2022-02-18 0:00,wash. sangio rosé res lr,95,546
+5786,2-138,2022-02-18 0:00,wash. sangio rosa res,95,606
+5787,2-139,2022-02-18 0:00,wash. sangio rosa res,95,546
 5788,2-140,2022-02-18 0:00,itl. amarone pr,240,749
 5789,2-141,2022-02-18 0:00,fr. marselan le21,5.2,888
 5790,2-142,2022-02-18 0:00,aus. tram-ries res,200,807
-5791,2-143,2022-02-18 0:00,wash. sangio rosé res lr,95,906
-5792,2-144,2022-02-18 0:00,wash. sangio rosé res lr,190,890
+5791,2-143,2022-02-18 0:00,wash. sangio rosa res,95,906
+5792,2-144,2022-02-18 0:00,wash. sangio rosa res,190,890
 5793,2-145,2022-02-18 0:00,sonoma chardonnay pr + 120gr oak,235,947
 5794,2-146,2022-02-18 0:00,fr. marselan le21,113,919
 5795,2-147,2022-02-22 0:00,itl. pinot grigio cl,160,707
@@ -5727,7 +5727,7 @@
 5800,2-152,2022-02-22 0:00,cal. riesling res,200,591
 5801,2-153,2022-02-22 0:00,itl. sangiovese cl,165,591
 5802,2-154,2022-02-22 0:00,itl. amarone pr,240,591
-5803,2-155,2022-02-22 0:00,wash. sangio rosé res lr,190,948
+5803,2-155,2022-02-22 0:00,wash. sangio rosa res,190,948
 5804,2-156,2022-02-22 0:00,fr. bordeaux pr + aging,270,610
 5805,2-157,2022-02-22 0:00,itl. amarone pr + aging,270,610
 5806,2-158,2022-02-22 0:00,spa. tempranillo cl,165,729
@@ -5741,7 +5741,7 @@
 5814,2-166,2022-02-24 0:00,aus. cab shiraz monte. pp22,104,547
 5815,2-167,2022-02-24 0:00,spa. grenache carignan le21,104,547
 5816,2-168,2022-02-25 0:00,cal. white zin cl,165,814
-5817,2-169,2022-02-25 0:00,wash. sangio rosé res lr,190,747
+5817,2-169,2022-02-25 0:00,wash. sangio rosa res,190,747
 5818,2-170,2022-02-25 0:00,spa. macabeo sauv blanc le21,220,914
 5819,2-171,2022-02-25 0:00,aus. pinot noir shiraz le21,226,914
 5820,2-172,2022-02-25 0:00,itl. pinot grigio res,200,583
@@ -5750,7 +5750,7 @@
 5823,2-175,2022-02-25 0:00,ger. gewurz res,200,548
 5824,2-176,2022-02-25 0:00,ger. gewurz res,200,548
 5825,2-177,2022-02-25 0:00,cal. enigma res,205,945
-5826,2-178,2022-02-26 0:00,wash. sangio rosé res lr,190,558
+5826,2-178,2022-02-26 0:00,wash. sangio rosa res,190,558
 5827,2-179,2022-02-26 0:00,itl. pinot grigio cl,160,809
 5828,2-180,2022-02-26 0:00,aus. pinot noir shiraz le21,226,549
 5829,2-181,2022-02-26 0:00,fr. marselan le21 + aging,256,675
@@ -5761,16 +5761,16 @@
 5837,304,2022-03-01 0:00,aus. shiraz res,205,915
 5838,305,2022-03-01 0:00,itl. valroza cl,6,912
 5839,306,2022-03-01 0:00,cal. sauv blanc res,190,831
-5840,307,2022-03-02 0:00,wash. sangio rosé res lr,95,798
+5840,307,2022-03-02 0:00,wash. sangio rosa res,95,798
 5841,308,2022-03-02 0:00,chil. pinot noir res + 2 tbsp of blk pep,205,748
 5842,309,2022-03-02 0:00,lodi cab sauv pr,6,632
 5843,310,2022-03-02 0:00,itl. pinot grigio res,185,552
 5844,311,2022-03-02 0:00,cal. sauv blanc res,190,552
 5845,312,2022-03-02 0:00,cal. merlot res,195,553
-5846,313,2022-03-02 0:00,wash. sangio rosé res lr,190,565
-5847,314,2022-03-02 0:00,wash. sangio rosé res lr,190,565
+5846,313,2022-03-02 0:00,wash. sangio rosa res,190,565
+5847,314,2022-03-02 0:00,wash. sangio rosa res,190,565
 5848,315,2022-03-03 0:00,arg. malbec res,205,787
-5849,316,2022-03-03 0:00,wash. sangio rosé res lr,190,865
+5849,316,2022-03-03 0:00,wash. sangio rosa res,190,865
 5850,317,2022-03-03 0:00,itl. amarone res,205,719
 5851,318,2022-03-03 0:00,aus. cab shiraz monte. pp22 + aging,135,918
 5852,319,2022-03-03 0:00,aus. chardonnay res,200,885
@@ -5833,7 +5833,7 @@
 5909,378,2022-03-11 0:00,aus. cab shiraz monte. pp22,120,561
 5910,379,2022-03-12 0:00,aus. tram-ries res + 1/2 tsp so2,190,927
 5911,380,2022-03-12 0:00,ger. gewurz res + 1/2 tsp so2,190,927
-5912,382,2022-03-12 0:00,wash. sangio rosé res lr,95,902
+5912,382,2022-03-12 0:00,wash. sangio rosa res,95,902
 5913,383,2022-03-12 0:00,fr. bordeaux pr + aging,270,770
 5914,384,2022-03-12 0:00,lodi cab sauv pr + aging,270,770
 5915,385,2022-03-12 0:00,chil. pinot noir res,195,562
@@ -5913,7 +5913,7 @@
 5989,3-160,2022-03-29 0:00,itl. pinot grigio cl,160,842
 5990,3-161,2022-03-29 0:00,aus. tram-ries res,200,572
 5991,3-162,2022-03-29 0:00,aus. tram-ries res,200,572
-5992,3-163,2022-03-29 0:00,wash. sangio rosé res lr,190,573
+5992,3-163,2022-03-29 0:00,wash. sangio rosa res,190,573
 5993,3-164,2022-03-29 0:00,itl. amarone res,205,574
 5994,3-165,2022-03-29 0:00,itl. amarone res,205,574
 5995,3-166,2022-03-29 0:00,itl. amarone res,205,574
@@ -5942,7 +5942,7 @@
 6018,410,2022-04-01 0:00,cal. enigma res,205,578
 6019,411,2022-04-02 0:00,aus. cab sauv res + 6.4g global yeast energizer,205,930
 6020,412,2022-04-02 0:00,n.z. sauv blanc pr,225,620
-6021,413,2022-04-02 0:00,wash. sangio rosé res lr,190,579
+6021,413,2022-04-02 0:00,wash. sangio rosa res,190,579
 6022,414,2022-04-02 0:00,chil. cab sauv cl,165,818
 6023,415,2022-04-02 0:00,cal. v.c.d.r. cl,155,844
 6024,416,2022-04-02 0:00,aus. cab sauv res,190,844
@@ -5979,7 +5979,7 @@
 6055,447,2022-04-08 0:00,aus. grenache rose res,195,583
 6056,448,2022-04-08 0:00,aus. grenache rose res,195,583
 6057,449,2022-04-08 0:00,aus. cab sauv res,205,584
-6058,450,2022-04-09 0:00,wash. sangio rosé res lr,195,945
+6058,450,2022-04-09 0:00,wash. sangio rosa res,195,945
 6059,451,2022-04-09 0:00,napa merlot pr + aging,270,823
 6060,452,2022-04-09 0:00,spa. grenache carignan le21 + aging,150,907
 6061,453,2022-04-09 0:00,itl. luna rossa res,205,585
@@ -6006,7 +6006,7 @@
 6082,474,2022-04-14 0:00,spa. grenache carignan le21 + aging,135,608
 6083,475,2022-04-20 0:00,cal. sauv blanc res,205,740
 6084,476,2022-04-20 0:00,aus. cab sauv res,200,740
-6085,477,2022-04-20 0:00,wash. sangio rosé res lr,190,591
+6085,477,2022-04-20 0:00,wash. sangio rosa res,190,591
 6086,478,2022-04-20 0:00,aus. cab shiraz res,210,680
 6087,479,2022-04-20 0:00,aus. pinot noir shiraz le21,226,929
 6088,480,2022-04-20 0:00,lodi o.v. zin pr,245,929
@@ -6081,12 +6081,12 @@
 6157,4-149,2022-04-30 0:00,chil. merlot cl,170,658
 6158,4-150,2022-04-30 0:00,spa. grenache carignan le21,120,903
 6159,4-151,2022-04-30 0:00,spa. grenache carignan le21,120,903
-6160,4-152,2022-04-30 0:00,wash. sangio rosé res lr,190,606
+6160,4-152,2022-04-30 0:00,wash. sangio rosa res,190,606
 6161,501,2022-05-03 0:00,itl. pinot grigio res,205,933
 6162,502,2022-05-03 0:00,itl. amarone res,210,719
 6163,503,2022-05-03 0:00,cal. riesling res,205,777
 6164,504,2022-05-03 0:00,cal. sauv blanc res,205,607
-6165,505,2022-05-03 0:00,wash. sangio rosé res lr,190,607
+6165,505,2022-05-03 0:00,wash. sangio rosa res,190,607
 6166,506,2022-05-03 0:00,aus. cab sauv res,210,607
 6167,507,2022-05-04 0:00,spa. grenache carignan le21,120,845
 6168,508,2022-05-04 0:00,cal. riesling res,205,798
@@ -6134,7 +6134,7 @@
 6210,551,2022-05-12 0:00,aus. grenache rose res,200,786
 6211,552,2022-05-12 0:00,cal. pinot noir cl,160,786
 6212,553,2022-05-12 0:00,itl. luna rossa res + aging,240,675
-6213,554,2022-05-12 0:00,wash. sangio rosé res lr,190,673
+6213,554,2022-05-12 0:00,wash. sangio rosa res,190,673
 6214,555,2022-05-13 0:00,cal. viognier cl,165,946
 6215,556,2022-05-13 0:00,fr. bordeaux pr + aging,245,869
 6216,557,2022-05-13 0:00,itl. super tuscan pr + aging,245,869
@@ -6154,7 +6154,7 @@
 6230,575,2022-05-18 0:00,itl. pinot grigio res,155,619
 6231,576,2022-05-18 0:00,itl. montepulciano res,160,619
 6232,577,2022-05-18 0:00,sonoma chardonnay pr + 1/2 tsp so2,240,876
-6233,578,2022-05-18 0:00,wash. sangio rosé res lr + 1/2 tsp so2,190,876
+6233,578,2022-05-18 0:00,wash. sangio rosa res + 1/2 tsp so2,190,876
 6234,579,2022-05-18 0:00,itl. amarone pr + 1/2 tsp so2,245,876
 6235,580,2022-05-18 0:00,lodi cab sauv pr + 1/2 tsp so2,245,876
 6236,581,2022-05-19 0:00,cal. pinot noir cl,170,895
@@ -6175,7 +6175,7 @@
 6251,599,2022-05-25 0:00,aus. pinot noir shiraz le21,226,887
 6252,5-100,2022-05-25 0:00,aus. tram-ries res + 1/2 tsp so2,195,927
 6253,5-101,2022-05-25 0:00,ger. gewurz res + 1/2 tsp so2,195,927
-6254,5-102,2022-05-25 0:00,wash. sangio rosé res lr + 1/2 tsp so2,180,927
+6254,5-102,2022-05-25 0:00,wash. sangio rosa res + 1/2 tsp so2,180,927
 6255,5-103,2022-05-25 0:00,itl. valroza cl,6,912
 6256,5-104,2022-05-25 0:00,cal. trinity red cl + no oak,165,791
 6257,5-105,2022-05-25 0:00,cal. trinity red cl + no oak,165,791
@@ -6211,7 +6211,7 @@
 6287,602,2022-06-01 0:00,itl. primitivo pp22,226,820
 6288,603,2022-06-01 0:00,itl. primitivo pp22,226,820
 6289,604,2022-06-01 0:00,fw raspberry peach sangria im,145,626
-6290,605,2022-06-01 0:00,wash. sangio rosé res lr,190,626
+6290,605,2022-06-01 0:00,wash. sangio rosa res,190,626
 6291,606,2022-06-01 0:00,cal. enigma res,210,627
 6292,607,2022-06-01 0:00,cal. riesling res,205,628
 6293,608,2022-06-01 0:00,aus. pinot noir shiraz le21,226,628
@@ -6268,7 +6268,7 @@
 6344,660,2022-06-10 0:00,itl. amarone pr + aging,275,796
 6345,661,2022-06-11 0:00,chil. merlot cl,160,903
 6346,662,2022-06-11 0:00,chil. merlot cl,155,903
-6347,663,2022-06-11 0:00,aus. mataro shiraz res lr,210,903
+6347,663,2022-06-11 0:00,aus. mataro shiraz res,210,903
 6348,664,2022-06-14 0:00,wash. pinot gris pr,240,823
 6349,665,2022-06-14 0:00,lodi cab sauv pr,245,821
 6350,666,2022-06-14 0:00,itl. sangiovese cl,170,638
@@ -6279,15 +6279,15 @@
 6355,671,2022-06-15 0:00,aus. shiraz res,200,640
 6356,672,2022-06-15 0:00,aus. sauv blanc pr,230,641
 6357,673,2022-06-15 0:00,itl. pinot grigio cl,165,653
-6358,674,2022-06-15 0:00,spa. albarino res lr,205,656
+6358,674,2022-06-15 0:00,spa. albarino res,205,656
 6359,675,2022-06-15 0:00,fr. bordeaux pr + aging,275,656
 6360,676,2022-06-16 0:00,chil. carmenere res,210,838
 6361,677,2022-06-16 0:00,cal. chardonnay cl,165,872
 6362,678,2022-06-17 0:00,itl. pinot grigio cl,165,922
 6363,679,2022-06-17 0:00,chil. cab sauv cl,170,922
-6364,680,2022-06-17 0:00,spa. albarino res lr,205,720
+6364,680,2022-06-17 0:00,spa. albarino res,205,720
 6365,681,2022-06-18 0:00,cal. gewurz cl,160,642
-6366,682,2022-06-18 0:00,spa. albarino res lr,205,643
+6366,682,2022-06-18 0:00,spa. albarino res,205,643
 6367,683,2022-06-21 0:00,aus. cab sauv res,210,772
 6368,684,2022-06-21 0:00,cal. enigma res,210,916
 6369,685,2022-06-21 0:00,chil. merlot cl,170,946
@@ -6301,8 +6301,8 @@
 6377,693,2022-06-23 0:00,itl. amarone res,210,646
 6378,694,2022-06-23 0:00,fr. vcdr res + aging,230,694
 6379,695,2022-06-23 0:00,aus. sauv blanc pr,240,889
-6380,696,2022-06-23 0:00,aus. mataro shiraz res lr +age,240,868
-6381,697,2022-06-24 0:00,spa. albarino res lr,205,777
+6380,696,2022-06-23 0:00,aus. mataro shiraz res +age,240,868
+6381,697,2022-06-24 0:00,spa. albarino res,205,777
 6382,698,2022-06-25 0:00,chil. carmenere res + aging,240,724
 6383,699,2022-06-25 0:00,chil. carmenere res,210,685
 6384,6-100,2022-06-25 0:00,itl. sangiovese cl,170,902
@@ -6314,11 +6314,11 @@
 6390,6-107,2022-06-29 0:00,itl. pinot grigio res,205,756
 6391,6-108,2022-06-29 0:00,lodi cab sauv pr + aging,275,671
 6392,6-109,2022-06-29 0:00,aus. grenache rose res,210,830
-6393,6-110,2022-06-29 0:00,aus. mataro shiraz res lr,210,830
+6393,6-110,2022-06-29 0:00,aus. mataro shiraz res,210,830
 6394,6-111,2022-06-29 0:00,aus. chardonnay res,205,906
-6395,6-112,2022-06-30 0:00,aus. mataro shiraz res lr,210,877
+6395,6-112,2022-06-30 0:00,aus. mataro shiraz res,210,877
 6396,6-113,2022-06-30 0:00,lodi o.v. zin pr + aging,275,808
-6397,6-114,2022-06-30 0:00,spa. albarino res lr,205,846
+6397,6-114,2022-06-30 0:00,spa. albarino res,205,846
 6398,6-116,2022-06-30 0:00,aus. chardonnay res,205,931
 6399,6-117,2022-06-30 0:00,cal. white zin cl,170,647
 6400,6-118,2022-06-30 0:00,aus. shiraz res,210,915
@@ -6343,7 +6343,7 @@
 6419,711,2022-07-06 0:00,wash. riesling cl,155,943
 6420,712,2022-07-06 0:00,wash. riesling cl,155,943
 6421,713,2022-07-06 0:00,chil. pinot noir res,210,798
-6422,714,2022-07-06 0:00,wash. sangio rosé res lr,190,652
+6422,714,2022-07-06 0:00,wash. sangio rosa res,190,652
 6423,715,2022-07-06 0:00,aus. cab sauv res,210,653
 6424,716,2022-07-06 0:00,cal. sol os,6,801
 6425,717,2022-07-07 0:00,aus. chardonnay res,195,654
@@ -6375,7 +6375,7 @@
 6451,743,2022-07-14 0:00,aus. shiraz res + aging,230,662
 6452,744,2022-07-14 0:00,itl. valroza cl,160,663
 6453,745,2022-07-14 0:00,cal. riesling res,205,860
-6454,746,2022-07-14 0:00,spa. albarino res lr,205,860
+6454,746,2022-07-14 0:00,spa. albarino res,205,860
 6455,747,2022-07-14 0:00,itl. super tuscan pr + aging,275,664
 6456,748,2022-07-14 0:00,itl. pinot grigio res,205,917
 6457,749,2022-07-15 0:00,arg. malbec res,210,699
@@ -6384,14 +6384,14 @@
 6460,752,2022-07-15 0:00,aus. cab sauv res,100,665
 6461,753,2022-07-15 0:00,itl. brunello pr lr + aging,270,869
 6462,754,2022-07-15 0:00,aus. tram-ries res,205,666
-6463,755,2022-07-16 0:00,spa. albarino res lr,205,874
+6463,755,2022-07-16 0:00,spa. albarino res,205,874
 6464,756,2022-07-16 0:00,cal. gewurz cl,165,824
 6465,757,2022-07-19 0:00,itl. pinot grigio cl,165,707
 6466,758,2022-07-19 0:00,fw black cherry nm,145,667
 6467,759,2022-07-19 0:00,chil. carmenere res,210,667
 6468,760,2022-07-19 0:00,itl. pinot grigio res,205,668
 6469,761,2022-07-19 0:00,cal. sauv blanc res,205,831
-6470,762,2022-07-19 0:00,spa. albarino res lr,205,722
+6470,762,2022-07-19 0:00,spa. albarino res,205,722
 6471,763,2022-07-19 0:00,arg. malbec res,210,810
 6472,764,2022-07-20 0:00,wash. riesling cl,165,822
 6473,765,2022-07-20 0:00,ger. gewurz res + 8gr pot. bicarb. @ stab.,205,737
@@ -6418,19 +6418,19 @@
 6495,786,2022-07-23 0:00,aus. cab sauv res + 1/2 tsp so2,210,857
 6496,787,2022-07-26 0:00,itl. pinot grigio res,205,761
 6497,788,2022-07-26 0:00,wash. pinot gris pr,240,779
-6498,789,2022-07-26 0:00,aus. mataro shiraz res lr +age,240,675
+6498,789,2022-07-26 0:00,aus. mataro shiraz res +age,240,675
 6499,790,2022-07-26 0:00,aus. grenache rose res,210,676
 6500,791,2022-07-26 0:00,itl. amarone pr,245,677
-6501,792,2022-07-26 0:00,spa. albarino res lr,205,720
-6502,793,2022-07-26 0:00,aus. mataro shiraz res lr,210,929
+6501,792,2022-07-26 0:00,spa. albarino res,205,720
+6502,793,2022-07-26 0:00,aus. mataro shiraz res,210,929
 6503,794,2022-07-26 0:00,itl. pinot grigio cl,165,744
-6504,795,2022-07-27 0:00,spa. albarino res lr,205,678
+6504,795,2022-07-27 0:00,spa. albarino res,205,678
 6505,796,2022-07-27 0:00,itl. amarone pr,245,802
 6506,797,2022-07-28 0:00,itl. valroza cl,170,851
 6507,798,2022-07-28 0:00,aus. tram-ries res + 1/2 tsp so2,195,927
 6508,799,2022-07-28 0:00,ger. gewurz res + 1/2 tsp so2,195,927
 6509,7-100,2022-07-28 0:00,aus. sauv blanc pr,240,854
-6510,7-101,2022-07-29 0:00,spa. albarino res lr,205,679
+6510,7-101,2022-07-29 0:00,spa. albarino res,205,679
 6511,7-102,2022-07-29 0:00,itl. brunello pr lr,245,838
 6512,7-103,2022-07-29 0:00,chil. pinot noir res,210,680
 6513,801,2022-08-02 0:00,chil. merlot cl,170,841
@@ -6444,9 +6444,9 @@
 6521,809,2022-08-02 0:00,cal. enigma res,210,850
 6522,810,2022-08-02 0:00,itl. pinot grigio res,205,916
 6523,811,2022-08-03 0:00,chil. cab sauv cl,170,681
-6524,812,2022-08-03 0:00,spa. albarino res lr,205,948
+6524,812,2022-08-03 0:00,spa. albarino res,205,948
 6525,813,2022-08-03 0:00,lodi cab sauv pr + aging,275,753
-6526,814,2022-08-03 0:00,aus. mataro shiraz res lr +age,240,907
+6526,814,2022-08-03 0:00,aus. mataro shiraz res +age,240,907
 6527,815,2022-08-03 0:00,aus. cab sauv res,210,682
 6528,816,2022-08-03 0:00,wash. pinot gris pr,240,683
 6529,817,2022-08-03 0:00,itl. brunello pr lr + aging,270,684
@@ -6460,14 +6460,14 @@
 6537,825,2022-08-05 0:00,cal. shiraz cl + 2x oak,160,925
 6538,826,2022-08-05 0:00,chil. pinot noir res,195,925
 6539,827,2022-08-06 0:00,aus. grenache rose res + 100ml cc,210,687
-6540,828,2022-08-06 0:00,spa. albarino res lr,205,795
+6540,828,2022-08-06 0:00,spa. albarino res,205,795
 6541,829,2022-08-06 0:00,aus. sauv blanc pr,240,795
-6542,830,2022-08-06 0:00,spa. albarino res lr,205,902
+6542,830,2022-08-06 0:00,spa. albarino res,205,902
 6543,831,2022-08-06 0:00,chil. cab sauv cl,170,902
 6544,832,2022-08-06 0:00,napa merlot pr,6,847
 6545,833,2022-08-06 0:00,itl. brunello pr lr,240,769
 6546,834,2022-08-06 0:00,itl. luna rossa res,210,862
-6547,835,2022-08-06 0:00,aus. mataro shiraz res lr,210,862
+6547,835,2022-08-06 0:00,aus. mataro shiraz res,210,862
 6548,836,2022-08-06 0:00,itl. pinot grigio cl,170,688
 6549,837,2022-08-06 0:00,fr. bordeaux pr,240,688
 6550,838,2022-08-06 0:00,aus. cab shiraz res,210,747
@@ -6495,14 +6495,14 @@
 6572,860,2022-08-11 0:00,fr. marselan le21 + aging,256,837
 6573,861,2022-08-12 0:00,itl. pinot grigio cl + 1/4 tsp so2,165,858
 6574,862,2022-08-12 0:00,itl. pinot grigio res + 1/2 tsp so2,205,693
-6575,863,2022-08-12 0:00,spa. albarino res lr,205,694
-6576,864,2022-08-12 0:00,spa. albarino res lr,205,695
+6575,863,2022-08-12 0:00,spa. albarino res,205,694
+6576,864,2022-08-12 0:00,spa. albarino res,205,695
 6577,865,2022-08-12 0:00,aus. grenache rose res,210,695
 6578,866,2022-08-12 0:00,arg. malbec res,210,695
-6579,867,2022-08-13 0:00,aus. mataro shiraz res lr + 6.4g yst eng,210,698
+6579,867,2022-08-13 0:00,aus. mataro shiraz res + 6.4g yst eng,210,698
 6580,868,2022-08-13 0:00,itl. brunello pr lr + 1/2 s02,240,871
 6581,869,2022-08-13 0:00,chil. pinot noir res,210,855
-6582,870,2022-08-13 0:00,aus. mataro shiraz res lr,210,731
+6582,870,2022-08-13 0:00,aus. mataro shiraz res,210,731
 6583,871,2022-08-16 0:00,aus. sauv blanc pr,240,736
 6584,872,2022-08-16 0:00,cal. viognier cl,165,896
 6585,873,2022-08-16 0:00,chil. merlot cl,170,896
@@ -6531,13 +6531,13 @@
 6608,896,2022-08-24 0:00,aus. shiraz res,210,915
 6609,897,2022-08-24 0:00,aus. shiraz res,210,915
 6610,898,2022-08-24 0:00,cal. enigma res,210,702
-6611,899,2022-08-24 0:00,spa. albarino res lr,205,703
-6612,8-100,2022-08-24 0:00,aus. mataro shiraz res lr +age,240,703
+6611,899,2022-08-24 0:00,spa. albarino res,205,703
+6612,8-100,2022-08-24 0:00,aus. mataro shiraz res +age,240,703
 6613,8-101,2022-08-24 0:00,chil. pinot noir res,210,799
 6614,8-102,2022-08-25 0:00,itl. pinot grigio cl,165,744
 6615,8-103,2022-08-25 0:00,cal. gewurz cl,165,824
 6616,8-104,2022-08-25 0:00,itl. pinot grigio res,205,860
-6617,8-105,2022-08-25 0:00,aus. mataro shiraz res lr +age,240,860
+6617,8-105,2022-08-25 0:00,aus. mataro shiraz res +age,240,860
 6618,8-106,2022-08-26 0:00,itl. pinot grigio res,205,933
 6619,8-107,2022-08-26 0:00,aus. tram-ries res,205,874
 6620,8-108,2022-08-26 0:00,itl. brunello pr lr + aging,275,874
@@ -6554,12 +6554,12 @@
 6631,8-119,2022-08-30 0:00,pinot noir oth,145,910
 6632,8-120,2022-08-30 0:00,chil. merlot cl,170,757
 6633,8-121,2022-08-30 0:00,chil. merlot cl,170,757
-6634,8-123,2022-08-31 0:00,spa. albarino res lr,205,805
+6634,8-123,2022-08-31 0:00,spa. albarino res,205,805
 6635,8-124,2022-08-31 0:00,ger. gewurz res,205,836
 6636,8-125,2022-08-31 0:00,itl. brunello pr lr,245,836
 6637,8-126,2022-08-31 0:00,itl. pinot grigio res,205,708
 6638,8-127,2022-08-31 0:00,cal. viognier cl,165,835
-6639,901,2022-09-01 0:00,spa. albarino res lr,205,709
+6639,901,2022-09-01 0:00,spa. albarino res,205,709
 6640,902,2022-09-01 0:00,itl. valroza cl,6,912
 6641,903,2022-09-01 0:00,itl. pinot grigio cl,165,878
 6642,904,2022-09-01 0:00,cal. liebfraumilch cl,165,710
@@ -6583,7 +6583,7 @@
 6660,923,2022-09-08 0:00,cal. enigma res,210,929
 6661,924,2022-09-08 0:00,lodi o.v. zin pr,245,929
 6662,925,2022-09-09 0:00,lodi cab sauv pr,245,794
-6663,926,2022-09-09 0:00,aus. mataro shiraz res lr,210,769
+6663,926,2022-09-09 0:00,aus. mataro shiraz res,210,769
 6664,927,2022-09-09 0:00,itl. trebbiano riesling le21,200,914
 6665,928,2022-09-09 0:00,cal. riesling res,205,714
 6666,929,2022-09-09 0:00,aus. cab sauv res,210,715
@@ -6608,7 +6608,7 @@
 6685,948,2022-09-15 0:00,aus. g.s.m. cl + no oak,170,898
 6686,949,2022-09-15 0:00,ger. gewurz res + 700ml cc,220,721
 6687,950,2022-09-16 0:00,cal. cab merlot res,210,780
-6688,951,2022-09-16 0:00,aus. mataro shiraz res lr,210,722
+6688,951,2022-09-16 0:00,aus. mataro shiraz res,210,722
 6689,952,2022-09-20 0:00,n.z. sauv blanc pr,240,802
 6690,953,2022-09-20 0:00,itl. amarone pr,245,802
 6691,954,2022-09-20 0:00,itl. pinot grigio cl,165,922
@@ -6616,7 +6616,7 @@
 6693,956,2022-09-20 0:00,wash. riesling cl,165,723
 6694,957,2022-09-20 0:00,itl. montepulciano res,210,776
 6695,958,2022-09-20 0:00,cal. pinot noir cl,170,848
-6696,959,2022-09-20 0:00,spa. albarino res lr,205,724
+6696,959,2022-09-20 0:00,spa. albarino res,205,724
 6697,960,2022-09-20 0:00,itl. amarone res + aging,240,724
 6698,961,2022-09-21 0:00,itl amarossa fj 23l,243,725
 6699,962,2022-09-21 0:00,itl. granbarile fj 23l,238,725
@@ -6625,7 +6625,7 @@
 6702,965,2022-09-21 0:00,itl. pinot grigio cl,165,882
 6703,966,2022-09-21 0:00,napa merlot pr,245,882
 6704,967,2022-09-21 0:00,cal. enigma res,210,908
-6705,968,2022-09-22 0:00,spa. albarino res lr,205,727
+6705,968,2022-09-22 0:00,spa. albarino res,205,727
 6706,969,2022-09-23 0:00,cal. moscato cl,165,728
 6707,970,2022-09-23 0:00,cab sauv oth,150,934
 6708,971,2022-09-23 0:00,cab sauv oth,150,934
@@ -6651,9 +6651,9 @@
 6728,991,2022-09-28 0:00,aus. grenache rose res,210,830
 6729,992,2022-09-28 0:00,aus. shiraz res + aging,240,830
 6730,993,2022-09-28 0:00,spa. grenache carignan le21,220,865
-6731,994,2022-09-28 0:00,spa. albarino res lr,200,885
-6732,995,2022-09-28 0:00,spa. albarino res lr,200,885
-6733,996,2022-09-28 0:00,spa. albarino res lr,200,885
+6731,994,2022-09-28 0:00,spa. albarino res,200,885
+6732,995,2022-09-28 0:00,spa. albarino res,200,885
+6733,996,2022-09-28 0:00,spa. albarino res,200,885
 6734,997,2022-09-28 0:00,cal. enigma res,210,885
 6735,998,2022-09-29 0:00,aus. cab sauv res,210,798
 6736,999,2022-09-29 0:00,oreg. pinot noir pr,235,829
@@ -6712,7 +6712,7 @@
 6789,1037,2022-10-12 0:00,cal. merlot res,210,752
 6790,1038,2022-10-12 0:00,lodi cab sauv pr + 1/2 tsp so2,245,871
 6791,1039,2022-10-13 0:00,ger. gewurz res,205,753
-6792,1040,2022-10-13 0:00,spa. albarino res lr,195,879
+6792,1040,2022-10-13 0:00,spa. albarino res,195,879
 6793,1041,2022-10-13 0:00,itl. brunello pr lr,230,879
 6794,1042,2022-10-13 0:00,itl. super tuscan pr,245,754
 6795,1043,2022-10-13 0:00,itl. amarone pr,245,754
@@ -6930,7 +6930,7 @@
 7007,1229,2022-12-07 0:00,fr. bordeaux pr + 1/2 tsp so2 + aging,265,876
 7008,1230,2022-12-07 0:00,aus. shiraz pr + 1/2 tsp so2 + aging,265,876
 7009,1231,2022-12-07 0:00,itl. super tuscan pr + 1/2 tsp so2 + aging,265,876
-7010,1232,2022-12-07 0:00,aus. mataro shiraz res lr,200,877
+7010,1232,2022-12-07 0:00,aus. mataro shiraz res,200,877
 7011,1233,2022-12-08 0:00,itl. pinot grigio cl,155,878
 7012,1234,2022-12-08 0:00,itl. pinot grigio res,195,879
 7013,1235,2022-12-08 0:00,wash. cab merlot le22,0,880
@@ -6966,7 +6966,7 @@
 7043,1264,2022-12-10 0:00,chi. malbec carmenere pp23 + aging,128,899
 7044,1265,2022-12-10 0:00,lodi cab sauv pr + aging,265,900
 7045,1266,2022-12-10 0:00,itl. pinot grigio cl,155,901
-7046,1267,2022-12-10 0:00,spa. albarino res lr,195,902
+7046,1267,2022-12-10 0:00,spa. albarino res,195,902
 7047,1268,2022-12-10 0:00,chil. cab sauv cl,155,902
 7048,1269,2022-12-10 0:00,wash. cab merlot le22,113,903
 7049,1270,2022-12-10 0:00,lodi cab sauv pr,235,904
