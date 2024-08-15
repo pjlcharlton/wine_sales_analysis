@@ -4,7 +4,7 @@
 2,2019-01-04 0:00,cal. white zin vr,155,647,103, res pak
 3,2019-01-04 0:00,n/s sauv blanc vr,5.2,382,104,
 4,2019-01-04 0:00,chil. corazon le18,230,811,105,
-5,2019-01-04 0:00,yakima pinot gris ec,243,827,106,
+5,2019-01-04 0:00,yak. pinot gris ec,243,827,106,
 6,2019-01-04 0:00,itl. montepulciano sel,205,827,107,
 7,2019-01-04 0:00,cal. black cab le18,115,933,108,
 8,2019-01-04 0:00,cal. cab sauv sel,225,655,109, aging
@@ -48,7 +48,7 @@
 46,2019-01-09 0:00,n.z. fume blanc le18,110,12,149,
 47,2019-01-09 0:00,cal. black cab le18,120,344,150, aging
 48,2019-01-09 0:00,itl. pinot grigio sel,200,708,151,
-49,2019-01-09 0:00,yakima pinot gris ec,243,708,152,
+49,2019-01-09 0:00,yak. pinot gris ec,243,708,152,
 50,2019-01-09 0:00,lodi cab sauv ec,283,708,153, aging
 51,2019-01-10 0:00,lodi zinfandel ec,253,871,154,
 52,2019-01-10 0:00,arg. malbec sel,205,286,155, no skins
@@ -166,7 +166,7 @@
 164,2019-02-01 0:00,wash. riesling wv,160,540,204,
 165,2019-02-02 0:00,n/s piesporter vr,150,902,208, res. pak.
 166,2019-02-02 0:00,n/s mezza luna white vr,150,902,209, res. pak.
-167,2019-02-02 0:00,yakima pinot gris ec,285,8,210,
+167,2019-02-02 0:00,yak. pinot gris ec,285,8,210,
 168,2019-02-05 0:00,aus. cab shiraz sel,195,655,211,
 169,2019-02-05 0:00,napa merlot ec,240,9,212,
 170,2019-02-05 0:00,aus. g.s.m. sel,195,10,213, aging
@@ -365,8 +365,8 @@
 363,2019-03-23 0:00,wash. riesling ec,40,393,3-101,
 364,2019-03-23 0:00,aus. cab sauv sel,205,857,3-102, 1/2 tsp so2
 365,2019-03-23 0:00,lodi zinfandel ec,280,708,3-103, aging
-366,2019-03-26 0:00,yakima viognier cel,240,526,3-104,
-367,2019-03-26 0:00,yakima pinot gris ec,240,239,3-105,
+366,2019-03-26 0:00,yak. viognier cel,240,526,3-104,
+367,2019-03-26 0:00,yak. pinot gris ec,240,239,3-105,
 368,2019-03-28 0:00,cal. enigma sel,235,672,3-106, aging + so2
 369,2019-03-28 0:00,aus. tram-ries sel,200,24,3-107,
 370,2019-03-28 0:00,napa merlot ec,250,24,3-108,
@@ -428,8 +428,8 @@
 426,2019-04-11 0:00,itl. barbaresco le18,0,734,433, aging
 427,2019-04-11 0:00,itl. barbaresco le18,0,132,434, aging
 428,2019-04-12 0:00,itl. pinot grigio is,200,160,436,
-429,2019-04-12 0:00,spa cab/merlot/garnacha cm,145,167,437,
-430,2019-04-12 0:00,spa cab/merlot/garnacha cm,150,167,438,
+429,2019-04-12 0:00,spa. cab/merlot/garnacha cm,145,167,437,
+430,2019-04-12 0:00,spa. cab/merlot/garnacha cm,150,167,438,
 431,2019-04-12 0:00,wash. riesling wv,150,822,439,
 432,2019-04-12 0:00,cal. symphony gewurz le18,240,868,440,
 433,2019-04-12 0:00,ger. gewurz vr,140,158,443, res. pak.
@@ -525,10 +525,10 @@
 523,2019-05-02 0:00,fr. cab sauv wv,165,81,507,
 524,2019-05-02 0:00,itl. pinot grigio rosa sel,205,798,508,
 525,2019-05-04 0:00,itl. barbaresco le18,140,869,509, aging
-526,2019-05-04 0:00,yakima viognier cel,230,827,510,
-527,2019-05-04 0:00,yakima pinot gris cel,230,827,511,
+526,2019-05-04 0:00,yak. viognier cel,230,827,510,
+527,2019-05-04 0:00,yak. pinot gris cel,230,827,511,
 528,2019-05-04 0:00,chil. cab malbec carm atm,225,504,512, aging
-529,2019-05-04 0:00,yakima pinot gris ec,230,611,513,
+529,2019-05-04 0:00,yak. pinot gris ec,230,611,513,
 530,2019-05-04 0:00,itl. pinot grigio sel,200,44,514, lighten
 531,2019-05-04 0:00,chil. merlot wv,155,765,515,
 532,2019-05-04 0:00,wash. pinot gris cm,160,111,516,
@@ -639,7 +639,7 @@
 637,2019-05-24 0:00,n/s wsky cab merlot sel,225,655,5-123,
 638,2019-05-25 0:00,wash. riesling wv,150,902,5-125,
 639,2019-05-25 0:00,cal. pinot noir wv,150,902,5-126, 125ml cc
-640,2019-05-25 0:00,spa cab/merlot/garnacha cm,160,167,5-127,
+640,2019-05-25 0:00,spa. cab/merlot/garnacha cm,160,167,5-127,
 641,2019-05-25 0:00,cal. grand red pp,265,823,5-128, aging
 642,2019-05-25 0:00,s.a. sauv blanc cm,160,922,5-129,
 643,2019-05-25 0:00,itl. barbaresco le18,140,60,5-130, aging
@@ -657,7 +657,7 @@
 655,2019-05-30 0:00,cal. enigma sel,235,702,5-143, aging
 656,2019-05-30 0:00,n/s nebbiolo kc,125,63,5-144,
 657,2019-05-30 0:00,n.z. sauv blanc ec,240,553,5-145,
-658,2019-05-30 0:00,yakima pinot gris ec,240,64,5-146,
+658,2019-05-30 0:00,yak. pinot gris ec,240,64,5-146,
 659,2019-05-30 0:00,n.z. sauv blanc ec,240,511,5-147,
 660,2019-05-30 0:00,n/s wsky cab merlot sel,205,511,5-148,
 661,2019-05-30 0:00,n/s wsky cab merlot sel,205,232,5-149,
@@ -1001,7 +1001,7 @@
 999,2019-08-29 0:00,cab sauv chm,135,689,8-109,
 1000,2019-08-29 0:00,chil. merlot vr,155,757,8-110,
 1001,2019-08-30 0:00,ger. gewurz vr,140,158,8-111,
-1002,2019-08-30 0:00,yakima viognier cel,230,827,8-112,
+1002,2019-08-30 0:00,yak. viognier cel,230,827,8-112,
 1003,2019-08-30 0:00,itl. nebbiolo wv,165,618,8-113,
 1004,2019-08-30 0:00,var. pacifica white sel,220,927,8-114, 1/2 tsp so2
 1005,2019-08-30 0:00,wash. riesling ec,230,927,8-115, 1/2 tsp so2
@@ -1223,7 +1223,7 @@
 1221,2019-10-23 0:00,itl. pinot grigio wv,160,586,10-112,
 1222,2019-10-23 0:00,lodi o. v. zin ec,270,176,10-113, aging
 1223,2019-10-23 0:00,var. pacifica white sel,200,798,10-114,
-1224,2019-10-24 0:00,yakima pinot gris ec,240,827,10-115,
+1224,2019-10-24 0:00,yak. pinot gris ec,240,827,10-115,
 1225,2019-10-24 0:00,itl. montepulciano sel,205,827,10-116,
 1226,2019-10-24 0:00,n.z. sauv blanc ec,103,547,10-117,
 1227,2019-10-24 0:00,aus. shiraz wv,155,283,10-118,
@@ -1254,7 +1254,7 @@
 1252,2019-10-25 0:00,itl. pinot grigio is,200,160,10-145,
 1253,2019-10-25 0:00,wash. riesling ec,220,927,10-146, 1/2 tsp so2
 1254,2019-10-25 0:00,ger. gewurz ec,220,927,10-147, 1/2 tsp so2
-1255,2019-10-26 0:00,spa cab/merlot/garn. cm,160,167,10-148,
+1255,2019-10-26 0:00,spa. cab/merlot/garnacha cm,160,167,10-148,
 1256,2019-10-26 0:00,ger. gewurz ec,235,642,10-149,
 1257,2019-10-26 0:00,n.z. sauv blanc atm,195,320,10-150,
 1258,2019-10-26 0:00,aus. shiraz sel,200,320,10-151,
@@ -1874,7 +1874,7 @@
 1872,2020-02-12 0:00,wash. riesling wv,160,424,265, 200ml cc
 1873,2020-02-12 0:00,wash. riesling wv,150,391,266,
 1874,2020-02-12 0:00,wash. riesling wv,160,555,267,
-1875,2020-02-13 0:00,yakima viognier csc,235,827,268,
+1875,2020-02-13 0:00,yak. viognier csc,235,827,268,
 1876,2020-02-13 0:00,var. pacific quart red le19,107.5,364,269,
 1877,2020-02-13 0:00,aus. g.s.m. wv,175,243,270,
 1878,2020-02-13 0:00,n.z. sauv blanc ec,235,661,271,
@@ -2068,8 +2068,8 @@
 2066,2020-03-19 0:00,spa. cab/merlot/garn cm,165,340,3-110,
 2067,2020-03-19 0:00,itl. pink pinot grigio res,200,673,3-111,
 2068,2020-03-19 0:00,aus. cab sauv sel,205,856,3-112,
-2069,2020-03-19 0:00,yakima viognier csc,235,827,3-113,
-2070,2020-03-19 0:00,yakima pinot gris pr,235,827,3-114,
+2069,2020-03-19 0:00,yak. viognier csc,235,827,3-113,
+2070,2020-03-19 0:00,yak. pinot gris pr,235,827,3-114,
 2071,2020-03-19 0:00,aus. chardonnay wv,160,830,3-115,
 2072,2020-03-19 0:00,arg. malbec csc,-270,209,344, aging
 2073,2020-03-20 0:00,itl. nebbiolo pr,240,802,3-116,
