@@ -1,7 +1,7 @@
 ,DATE,WINE KIT,PRICE,CUST_ID,BATCH #,CUSTOMIZATION
 0,2019-01-03 0:00,wash. riesling wv,160,822,101,
 1,2019-01-03 0:00,n.z. sauv blanc ec,243,228,102,
-2,2019-01-04 0:00,cal. white zin vr,155,647,103, res pak
+2,2019-01-04 0:00,n/s white zin vr,155,647,103, res pak
 3,2019-01-04 0:00,n/s sauv blanc vr,5.2,382,104,
 4,2019-01-04 0:00,chil. corazon le18,230,811,105,
 5,2019-01-04 0:00,yak. pinot gris ec,243,827,106,
@@ -199,7 +199,7 @@
 197,2019-02-14 0:00,chil. corazon le18,5.2,678,240, aging
 198,2019-02-14 0:00,chil. corazon le18,0,432,240-1,
 199,2019-02-15 0:00,aus. chardonnay wv,150,477,241,
-200,2019-02-15 0:00,cal. white zin vr,140,477,242,
+200,2019-02-15 0:00,n/s white zin vr,140,477,242,
 201,2019-02-15 0:00,aus. g.s.m. sel,195,232,243,
 202,2019-02-15 0:00,itl. amarone sc,280,702,244, skins + aging
 203,2019-02-15 0:00,itl. pinot grigio rosa sel,185,871,245, 1/2 tsp so2
@@ -409,7 +409,7 @@
 407,2019-04-06 0:00,itl. pinot grigio rosa sel,160,451,414,
 408,2019-04-06 0:00,itl. pinot grigio wv,160,475,415,
 409,2019-04-09 0:00,aus. chardonnay wv,160,576,416,
-410,2019-04-09 0:00,cal. white zin vr,155,576,417, res pak
+410,2019-04-09 0:00,n/s white zin vr,155,576,417, res pak
 411,2019-04-10 0:00,chil. merlot wv,150,331,418,
 412,2019-04-10 0:00,chil. merlot wv,150,658,419,
 413,2019-04-11 0:00,itl. barbaresco le18,130,30,420, aging
@@ -587,7 +587,7 @@
 585,2019-05-16 0:00,itl. pinot grigio rosa sel,205,672,569,
 586,2019-05-16 0:00,arg. malbec sel,205,672,570, aging
 587,2019-05-16 0:00,itl. luna rossa sel,205,672,571, aging
-588,2019-05-16 0:00,cal. white zin vr,150,477,572,
+588,2019-05-16 0:00,n/s white zin vr,150,477,572,
 589,2019-05-16 0:00,lodi zinfandel ec,285,604,573,
 590,2019-05-16 0:00,n.z. sauv blanc ec,240,228,574,
 591,2019-05-16 0:00,barossa shiraz ec,280,662,575, aging
@@ -769,7 +769,7 @@
 767,2019-06-28 0:00,n/s wsky cab merlot sel,235,836,6-104, aging
 768,2019-06-28 0:00,n.z. sauv blanc ec,230,661,6-105,
 769,2019-06-28 0:00,n/s pinot noir vr,140,785,6-106,
-770,2019-07-02 0:00,cal. white zin vr,155,647,701, res pak
+770,2019-07-02 0:00,n/s white zin vr,155,647,701, res pak
 771,2019-07-02 0:00,s.a. sauv blanc cm,160,744,702,
 772,2019-07-02 0:00,itl. pinot grigio wv,150,238,703,
 773,2019-07-02 0:00,cal. chardonnay sel,185,834,704,
@@ -848,7 +848,7 @@
 846,2019-07-13 0:00,n/s wsky cab merlot sel,205,524,777,
 847,2019-07-16 0:00,arg. malbec sel,250,250,778,
 848,2019-07-16 0:00,wash. pinot gris cm,160,464,779,
-849,2019-07-16 0:00,cal. white zin vr,155,464,780, res pak
+849,2019-07-16 0:00,n/s white zin vr,155,464,780, res pak
 850,2019-07-16 0:00,n.z. sauv blanc atm,195,320,781,
 851,2019-07-16 0:00,aus. shiraz sel,200,320,782,
 852,2019-07-17 0:00,wash. riesling wv,160,204,783,
@@ -961,7 +961,7 @@
 959,2019-08-17 0:00,itl. brunello sel,205,865,870,
 960,2019-08-17 0:00,itl. brunello sel,0,865,870 R,
 961,2019-08-17 0:00,wash. pinot gris ec,235,679,871,
-962,2019-08-17 0:00,cal. white zin vr,150,477,872,
+962,2019-08-17 0:00,n/s white zin vr,150,477,872,
 963,2019-08-21 0:00,n/s chamblaise vr,140,835,873,
 964,2019-08-21 0:00,s.a. sauv blanc cm,150,564,874,
 965,2019-08-21 0:00,s.a. sauv blanc cm,160,922,875,
@@ -1579,7 +1579,7 @@
 1577,2019-12-12 0:00,spa. tempranillo le19,112.5,389,1268,
 1578,2019-12-12 0:00,spa. tempranillo le19,112.5,581,1269,
 1579,2019-12-13 0:00,aus. chardonnay wv,160,477,1270,
-1580,2019-12-13 0:00,cal. white zin vr,155,477,1271,
+1580,2019-12-13 0:00,n/s white zin vr,155,477,1271,
 1581,2019-12-13 0:00,itl. sangiovese wv,165,340,1272,
 1582,2019-12-13 0:00,n.z. sauv blanc atm,190,598,1273,
 1583,2019-12-13 0:00,itl. pinot grigio sel,200,160,1274,
@@ -1625,7 +1625,7 @@
 1623,2019-12-27 0:00,var. 3 moons cab ec,240,168,12-113,
 1624,2019-12-27 0:00,n/s pinot noir vr,140,785,12-114,
 1625,2019-12-28 0:00,itl. pinot grigio wv,160,946,12-115,
-1626,2019-12-28 0:00,cal. white zin vr,155,647,12-116, res pak
+1626,2019-12-28 0:00,n/s white zin vr,155,647,12-116, res pak
 1627,2019-12-28 0:00,cal. cab merlot sel,195,336,12-117,
 1628,2019-12-28 0:00,arg. malbec sc,240,295,12-118,
 1629,2019-12-30 0:00,itl. pinot grigio atm,200,775,12-119,
@@ -2186,7 +2186,7 @@
 2184,2020-04-22 0:00,aus. chardonnay res,200,216,477, 40gr dark oak
 2185,2020-04-22 0:00,wash. riesling cl,150,332,478,
 2186,2020-04-22 0:00,cal. gewurz cl,145,332,479,
-2187,2020-04-22 0:00,cal. white zin vr,5.2,647,480,
+2187,2020-04-22 0:00,n/s white zin vr,5.2,647,480,
 2188,2020-04-22 0:00,itl. pink pinot grigio res,5.2,439,481,
 2189,2020-04-22 0:00,cal. pinot noir cl,165,840,482,
 2190,2020-04-22 0:00,chil. merlot cl,165,217,483,
