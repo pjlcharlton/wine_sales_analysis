@@ -75,7 +75,7 @@
 73,2019-01-11 0:00,n/s v.c.d.r. vr,145,844,176,
 74,2019-01-12 0:00,n.z. fume blanc le18,230,882,177,
 75,2019-01-12 0:00,cal. black cab le18,220,882,177-1,
-76,2019-01-12 0:00,cal. liebfraumilch vr,150,47,185, res pak
+76,2019-01-12 0:00,n/s liebfraumilch vr,150,47,185, res pak
 77,2019-01-12 0:00,cal. black cab le18,260,45,186, aging
 78,2019-01-12 0:00,n.z. sauv blanc ec,240,3,187,
 79,2019-01-12 0:00,cal. black cab le18,230,3,188,
@@ -142,7 +142,7 @@
 140,2019-01-24 0:00,n/s viognier os,170,62,1-150, 200ml cc + 25gr bianco neve @ stab.
 141,2019-01-25 0:00,n.z. sauv blanc ec,314,152,1-151,
 142,2019-01-25 0:00,itl. pinot grigio wv,150,946,1-152,
-143,2019-01-26 0:00,cal. liebfraumilch vr,150,47,1-154, res pak
+143,2019-01-26 0:00,n/s liebfraumilch vr,150,47,1-154, res pak
 144,2019-01-26 0:00,aus. tram-ries sel,230,944,1-155,
 145,2019-01-26 0:00,chil. carmenere sc ,280,944,1-156, aging
 146,2019-01-26 0:00,cal. trinity red wv,85,120,1-157,
@@ -206,7 +206,7 @@
 204,2019-02-15 0:00,chil. corazon le18,130,504,246, aging
 205,2019-02-15 0:00,chil. corazon le18,115,378,247,
 206,2019-02-15 0:00,chil. corazon le18,130,12,248, aging
-207,2019-02-16 0:00,cal. liebfraumilch vr,150,47,249, res pak
+207,2019-02-16 0:00,n/s liebfraumilch vr,150,47,249, res pak
 208,2019-02-16 0:00,n/s port apres,200,79,250, aging + no so2
 209,2019-02-16 0:00,n/s port apres,200,79,251, aging + no so2
 210,2019-02-16 0:00,arg. malbec sc,280,79,252, aging
@@ -294,7 +294,7 @@
 292,2019-03-07 0:00,cal. symphony gewurz le18,220,77,329,
 293,2019-03-07 0:00,chil. corazon le18,115,77,330,
 294,2019-03-07 0:00,chil. carmenere sel,205,717,331,
-295,2019-03-08 0:00,cal. liebfraumilch vr,150,47,332, res pak
+295,2019-03-08 0:00,n/s liebfraumilch vr,150,47,332, res pak
 296,2019-03-08 0:00,itl. pinot grigio sel,200,933,333,
 297,2019-03-08 0:00,itl. pinot grigio rosa sel,185,933,334,
 298,2019-03-08 0:00,wash. riesling ec,240,927,335,
@@ -464,7 +464,7 @@
 462,2019-04-18 0:00,ger. gewurz ec,220,927,474, 1/2 tsp so2
 463,2019-04-18 0:00,itl. barbaresco le18,125,927,475, aging
 464,2019-04-18 0:00,itl. super tuscan pp 19,270,927,476, aging
-465,2019-04-18 0:00,cal. liebfraumilch vr,150,47,477, res pak
+465,2019-04-18 0:00,n/s liebfraumilch vr,150,47,477, res pak
 466,2019-04-23 0:00,aus. cab sauv wv,175,617,478, skins
 467,2019-04-23 0:00,itl. pinot grigio wv,150,884,479,
 468,2019-04-23 0:00,fr. cab sauv wv,5.2,36,480,
@@ -1191,7 +1191,7 @@
 1189,2019-10-15 0:00,cal. merlot sel,190,360,1078,
 1190,2019-10-15 0:00,itl. amarone csc,225,360,1079,
 1191,2019-10-16 0:00,n.z. fume blanc le18,220,678,1080,
-1192,2019-10-16 0:00,cal. liebfraumilch vr,150,555,1081,
+1192,2019-10-16 0:00,n/s liebfraumilch vr,150,555,1081,
 1193,2019-10-16 0:00,cal. moscato wv,160,537,1082, res pak
 1194,2019-10-16 0:00,chil. carmenere sel,205,919,1083,
 1195,2019-10-17 0:00,cal. enigma sel,220,162,1084, aging
